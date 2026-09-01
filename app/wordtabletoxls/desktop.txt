@@ -1,0 +1,5533 @@
+Host No.: 1
+
+IP	  10.147.18.62
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 2
+
+HOST	  gilvkwmaldt0063.abgplanet.abg.com
+IP	  10.23.136.208
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6		 SMB Signing Not Required
+5.3	cvss V3	
+7	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+8		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+Host No.: 3
+
+HOST	  gilvkwmaldt039.abgplanet.abg.com
+IP	  10.23.136.196
+
+ 
+
+
+
+Host No.: 4
+
+HOST	  gilvkwmaldt12.abgplanet.abg.com
+IP	  10.23.136.20
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+Host No.: 5
+
+HOST	  gilvkwmaldt0060.abgplanet.abg.com
+IP	  10.23.136.40
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+21/tcp	open	ftp	Konica Minolta FTP Utility ftpd 1.00
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	Windows 10 Pro 15063 microsoft-ds (workgroup: ABGPLANET)
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5357/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+7070/tcp	open	ssl/realserver?	
+
+
+
+Host No.: 6
+
+HOST	  gilvkwmaldt12.abgplanet.abg.com
+IP	  10.23.136.20
+
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 7
+
+HOST	  ABNJSTRSHDT371.abgplanet.abg.com
+IP	  10.147.1.155
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6		 SMB Signing Not Required
+5.3	cvss V3	
+7	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+8		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+21/tcp	open	ftp	Konica Minolta FTP Utility ftpd 1.00
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	Windows 10 Pro 15063 microsoft-ds (workgroup: ABGPLANET)
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5357/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+7070/tcp	open	ssl/realserver?	
+
+
+Host No.: 8
+
+HOST	  abnjstrshdt323.abgplanet.abg.com
+IP	  10.147.24.60
+
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 9
+
+HOST	  ABNJSTRSHDT128.abgplanet.abg.com
+IP	  10.147.21.26
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+3		 SSL Weak Hashing Algorithm
+7.5	cvss V3	CVE-2004-2761
+CWE-310
+4	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+5		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+6		 SSL Self-Signed Certificate
+6.4	cvss V2	
+7		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+8		 SMB Signing Not Required
+5.3	cvss V3	
+9	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+10		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 10
+
+HOST	  abnjstrshdt217.abgplanet.abg.com
+IP	  10.147.11.49
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 11
+
+HOST	  ABNJSTRSHDT197.abgplanet.abg.com
+IP	  10.147.25.197
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SMB Signing Not Required
+5.3	cvss V3	
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+ 
+
+Host No.: 12
+
+HOST	  abnjstrshdt168.abgplanet.abg.com
+IP	  10.147.11.61
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 13
+
+HOST	  abnjstrshdt165.abgplanet.abg.com
+IP	  10.147.17.63
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 14
+
+HOST	  ABNJSTRSHDT275.abgplanet.abg.com
+IP	  10.147.24.61
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 15
+
+HOST	  ABNJSTRSHDT462.abgplanet.abg.com
+IP	  10.147.1.142
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 16
+
+HOST	  ABNJSTRSHDT167.abgplanet.abg.com
+IP	  10.147.25.31
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 17
+
+HOST	  abnjstrshdt012.abgplanet.abg.com
+IP	  10.147.10.19
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 18
+
+HOST	  ABNJSTRSHDT037.abgplanet.abg.com
+IP	  10.147.0.222
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 19
+
+HOST	  ABNJSTRSHDT050.abgplanet.abg.com
+IP	  10.147.2.211
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 20
+
+HOST	  abnjstrshdt106.abgplanet.abg.com
+IP	  10.147.11.54
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.:21
+
+HOST	  ABNJSTRSHDT457.abgplanet.abg.com
+IP	  10.147.2.62
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+3	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+4		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+
+Host No.: 22
+
+IP	  10.147.16.25
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 23
+
+IP	  10.147.17.73
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 24
+
+HOST	  ABNJSTRSHDT208.abgplanet.abg.com
+IP	  10.147.25.198
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 25
+
+HOST	  ABNJSTRSHDT293.abgplanet.abg.com
+IP	  10.147.0.89
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SMB Signing Not Required
+5.3	cvss V3	
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 26
+
+HOST	  ABNJSTRSHDT130.abgplanet.abg.com
+IP	  10.147.11.30
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 27
+
+IP	  10.23.136.41
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 28
+
+IP	  10.23.136.206
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 29
+
+HOST	  gilvkwmallt0037.abgplanet.abg.com
+IP	  10.23.136.194
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 30
+
+HOST	  gilvkwmaldt0013.abgplanet.abg.com
+IP	  10.23.136.138
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 31
+
+HOST	  gilvkwmallt0033.abgplanet.abg.com
+IP	  10.23.136.49
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 32
+
+HOST	  ABNJSTRSHDT380.abgplanet.abg.com
+IP	  10.147.0.247
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 33
+
+HOST	  ABNJSTRSHDT158.abgplanet.abg.com
+IP	  10.147.17.78
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 34
+
+HOST	  ABNJSTRSHDT187.abgplanet.abg.com
+IP	  10.147.0.126
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 SSL Self-Signed Certificate
+6.4	cvss V2	
+4		 SMB Signing Not Required
+5.3	cvss V3	
+5	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+6		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 35
+
+HOST	  ABNJSTRSHDT186.abgplanet.abg.com
+IP	  10.147.2.77
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+
+
+
+Host No.: 36
+
+HOST	  abnjstrshdt092.abgplanet.abg.com
+IP	  10.147.1.215
+
+
+ 
+
+
+
+
+Host No.: 37
+
+HOST	  ABNJSTRSHDT493.abgplanet.abg.com
+IP	  10.147.24.65
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 38
+
+HOST	  ABNJSTRSHDT018.abgplanet.abg.com
+IP	  10.147.10.79
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 39
+
+HOST	  ABNJSTRSHDT080.abgplanet.abg.com
+IP	  10.147.11.52
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 40
+
+HOST	  ABNJSTRSHDT414.abgplanet.abg.com
+IP	  10.147.0.129
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 41
+
+HOST	  ABNJSTRSHDT382.abgplanet.abg.com
+IP	  10.147.0.149
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 42
+
+HOST	  ABNJSTRSHDT370.abgplanet.abg.com
+IP	  10.147.1.221
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 43
+
+HOST	  ABNJSTRSHDT226.abgplanet.abg.com
+IP	  10.147.21.27
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 44
+
+HOST	  ABNJSTRSHDT166.abgplanet.abg.com
+IP	  10.147.2.193
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	Informational	 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+ 
+Host No.: 45
+
+HOST	  ABNJSTRSHDT182.abgplanet.abg.com
+IP	  10.147.24.16
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 46
+
+HOST	  ABNJSTRSHDT124.abgplanet.abg.com
+IP	  10.147.2.243
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 47
+
+HOST	  ABNJSTRSHDT289.abgplanet.abg.com
+IP	  10.147.24.70
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 48
+
+HOST	  ABNJSTRSHDT232.abgplanet.abg.com
+IP	  10.147.21.14
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 49
+
+HOST	  ABNJSTRSHDT101.abgplanet.abg.com
+IP	  10.147.2.102
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+6		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 50
+
+HOST	  ABNJSTRSHDT321.abgplanet.abg.com
+IP	  10.147.0.194
+
+NO VULNERABILITY FOUND
+
+Host No.: 51
+
+HOST	  ABNJSTRSHDT005.abgplanet.abg.com
+IP	  10.147.11.57
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 52
+
+HOST	  ABNJSTRSHDT156.abgplanet.abg.com
+IP	  10.147.11.22
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6		 SMB Signing Not Required
+5.3	cvss V3	
+7	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+8		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 53
+
+HOST	  ABNJSTRSHDT274.abgplanet.abg.com
+IP	  10.147.11.25
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 54
+
+HOST	  ABNJSTRSHDT202.abgplanet.abg.com
+IP	  10.147.1.199
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 55
+
+HOST	  ABNJSTRSHDT136.abgplanet.abg.com
+IP	  10.147.7.29
+
+NO VULNERABILITY FOUND
+
+Host No.: 56
+
+HOST	  ABNJSTRSHDT109.abgplanet.abg.com
+IP	  10.147.17.68
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 57
+
+IP	  10.23.136.42
+
+ 
+
+
+Host No.: 58
+
+IP	  10.23.136.48
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 59
+
+HOST	  gilvkwmaldt_kalki.abgplanet.abg.com
+IP	  10.23.136.249
+
+ 
+
+
+Host No.: 60
+
+IP	  10.23.136.133
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Low	 SSH CBC Mode Ciphers Enabled
+2.6	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 61
+
+HOST	  gilvkwmallt0036.abgplanet.abg.com
+IP	  10.23.136.209
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 62
+
+HOST	  gilvkwmallt0038.abgplanet.abg.com
+IP	  10.23.136.66
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 63
+
+HOST	  gilvkwmallt0034.abgplanet.abg.com
+IP	  10.23.136.205
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 64
+
+IP	  10.23.136.82
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 65
+
+HOST	  gilvkwmaldt0046.abgplanet.abg.com
+IP	  10.23.136.136
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 66
+
+IP	  10.23.136.44
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 67
+
+HOST	  gilvkwmaldt85.abgplanet.abg.com
+IP	  10.147.17.68
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 68
+
+HOST	  gilvkwmallt0031.abgplanet.abg.com
+IP	  10.23.136.25
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 69
+
+HOST	  gilvkwmaldt0058.abgplanet.abg.com
+IP	  10.23.136.201
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 70
+
+HOST	  gilvkwmaldt098.abgplanet.abg.com
+IP	  10.23.136.132
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 71
+
+HOST	  gilvkwmallt0029.abgplanet.abg.com
+IP	  10.23.136.45
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 72
+
+HOST	  gilvkwmallt0030.abgplanet.abg.com
+IP	  10.23.136.131
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 73
+
+IP	  10.23.136.135
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 74
+
+HOST	  gilvkwmaldt06.abgplanet.abg.com
+IP	  10.23.136.130
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 75
+
+IP	  10.3.31.13
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 76
+
+IP	  10.3.31.133
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 77
+
+HOST	  gilvkwmaldt0073.abgplanet.abg.com
+IP	  10.23.136.195
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 78
+
+HOST	  gilvkwmaldt058.abgplanet.abg.com
+IP	  10.23.136.137
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 79
+
+HOST	  gilvkwmaldt053.abgplanet.abg.com
+IP	  10.23.136.204
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 80
+
+HOST	  gilvkwmaldt0081.abgplanet.abg.com
+IP	  10.23.136.202
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 81
+
+HOST	  GILVKWMALDT047.abgplanet.abg.com
+IP	  10.23.136.248
+
+ 
+
+
+
+
+Host No.: 82
+
+HOST	  abnjstmumdt0001.abgplanet.abg.com
+IP	  10.3.31.131
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 83
+
+HOST	  ABNJSTRSHDT173.abgplanet.abg.com
+IP	  10.147.24.40
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	Informational	 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 84
+
+HOST	  ABNJSTRSHDT116.abgplanet.abg.com
+IP	  10.147.17.13
+
+ 
+
+
+Host No.: 85
+
+HOST	  ABNJSTRSHDT239.abgplanet.abg.com
+IP	  10.147.11.93
+
+NO VULNERABILITY FOUND
+
+Host No.: 86
+
+HOST	  ABNJSTRSHDT123.abgplanet.abg.com
+IP	  10.147.17.84
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 87
+
+HOST	  ABNJSTRSHDT263.abgplanet.abg.com
+IP	  10.147.17.74
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 88
+
+HOST	  ABNJSTRSHDT107.abgplanet.abg.com
+IP	  10.147.25.199
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 89
+
+HOST	  ABNJSTRSHDT357.abgplanet.abg.com
+IP	  10.147.10.12
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 90
+
+HOST	  ABNJSTRSHDT135.abgplanet.abg.com
+IP	  10.147.24.63
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 91
+
+HOST	  ABNJSTRSHDT387.abgplanet.abg.com
+IP	  10.147.7.36
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 92
+
+HOST	  ABNJSTRSHDT417.abgplanet.abg.com
+IP	  10.147.2.187
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 93
+
+HOST	  ABNJSTRSHDT067.abgplanet.abg.com
+IP	  10.147.0.106
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 94
+
+HOST	  ABNJSTRSHDT235.abgplanet.abg.com
+IP	  10.147.11.33
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 95
+
+HOST	  ABNJSTRSHDT021.abgplanet.abg.com
+IP	  10.147.7.17
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 96
+
+HOST	  ABNJSTRSHDT453.abgplanet.abg.com
+IP	  10.147.10.119
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 97
+
+HOST	  ABNJSTRSHDT088.abgplanet.abg.com
+IP	  10.147.21.17
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 98
+
+HOST	  ABNJSTRSHDT184.abgplanet.abg.com
+IP	  10.147.21.38
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 99
+
+HOST	  ABNJSTRSHDT153.abgplanet.abg.com
+IP	  10.147.11.34
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 100
+
+HOST	  ABNJSTRSHDT243.abgplanet.abg.com
+IP	  10.147.17.29
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 101
+
+HOST	  ABNJSTRSHDT203.abgplanet.abg.com
+IP	  10.147.2.22
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 102
+
+HOST	  ABNJSTRSHDT126.abgplanet.abg.com
+IP	  10.147.11.21
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 103
+
+HOST	  ABNJSTRSHDT137.abgplanet.abg.com
+IP	  10.147.10.20
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 104
+
+HOST	  ABNJSTRSHDT304.abgplanet.abg.com
+IP	  10.147.2.227
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 105
+
+HOST	  ABNJSTRSHDT390.abgplanet.abg.com
+IP	  10.147.11.56
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 106
+
+HOST	  ABNJSTRSHDT102.abgplanet.abg.com
+IP	  10.147.0.87
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 107
+
+HOST	  ABNJSTRSHDT272.abgplanet.abg.com
+IP	  10.147.17.28
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+ 
+Host No.: 108
+
+HOST	  ABNJSTRSHDT292.abgplanet.abg.com
+IP	  10.147.21.33
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 109
+
+HOST	  ABNJSTRSHDT030.abgplanet.abg.com
+IP	  10.147.2.189
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 110
+
+HOST	  ABNJSTRSHDT013.abgplanet.abg.com
+IP	  10.147.11.47
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 111
+
+HOST	  ABNJSTRSHDT131.abgplanet.abg.com
+IP	  10.147.17.66
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 111
+
+HOST	  ABNJSTRSHDT076.abgplanet.abg.com
+IP	  10.147.10.21
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 112
+
+HOST	  ABNJSTRSHDT044.abgplanet.abg.com
+IP	  10.147.0.71
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+
+
+
+Host No.: 113
+
+HOST	  ABNJSTRSHDT290.abgplanet.abg.com
+IP	  10.147.0.188
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 114
+
+IP	  10.147.19.12
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 114
+
+IP	  10.147.16.59
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 115
+
+IP	  10.147.16.46
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 116
+
+IP	  10.147.24.73
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 117
+
+IP	  10.147.24.13
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 118
+
+HOST	  ABNJSTRSHDT095.abgplanet.abg.com
+IP	  10.147.17.58
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 119
+
+HOST	  ABNJSTRSHDT254.abgplanet.abg.com
+IP	  10.147.24.62
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 120
+
+HOST	  ABNJSTRSHDT134.abgplanet.abg.com
+IP	  10.147.17.75
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 121
+
+HOST	  ABNJSTRSHDT077.abgplanet.abg.com
+IP	  10.147.7.26
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 122
+
+HOST	  ABNJSTRSHDT309.abgplanet.abg.com
+IP	  10.147.25.29
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+3	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+4		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 123
+
+IP	  10.147.1.112
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 124
+
+HOST	  ABNJSTRSHDT105.abgplanet.abg.com
+IP	  10.147.17.76
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 125
+
+IP	  10.147.0.159
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 126
+
+IP	  10.147.11.39
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 127
+
+HOST	  ABNJSTRSHLT396.abgplanet.abg.com
+IP	  10.147.25.28
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 128
+
+IP	  10.147.0.200
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 129
+
+IP	  10.147.1.204
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 129
+
+IP	  10.147.2.158
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 124
+
+HOST	  ABNJSTRSHDT174.abgplanet.abg.com
+IP	  10.147.2.80
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+
+
+
+Host No.: 125
+
+HOST	  ABNJSTRSHDT204.abgplanet.abg.com
+IP	  10.147.11.210
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 126
+
+HOST	  ABNJSTRSHDT120.abgplanet.abg.com
+IP	  10.147.21.21
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 127
+
+HOST	  ABNJSTRSHDT176.abgplanet.abg.com
+IP	  10.147.21.41
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 128
+
+HOST	  ABNJSTRSHDT242.abgplanet.abg.com
+IP	  10.147.2.164
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 129
+
+HOST	  ABNJSTRSHDT90.abgplanet.abg.com
+IP	  10.147.17.53
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 130
+
+HOST	  ABNJSTRSHDT175.abgplanet.abg.com
+IP	  10.147.17.199
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 131
+
+HOST	  ABNJSTRSHDT055.abgplanet.abg.com
+IP	  10.147.21.36
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 132
+
+HOST	  ABNJSTRSHDT349.abgplanet.abg.com
+IP	  10.147.11.35
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 133
+
+IP	  10.147.17.80
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 134
+
+HOST	  ABNJSTRSHDT158.abgplanet.abg.com
+IP	  10.147.17.78
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 135
+
+IP	  10.147.10.16
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 136
+
+IP	  10.147.17.19
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 137
+
+IP	  10.147.16.13
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 138
+
+IP	  10.147.19.27
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 139
+
+IP	  10.147.2.39
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 140
+
+IP	  10.147.16.31
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 141
+
+IP	  10.147.2.58
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 142
+
+HOST	  ABNJSTRSHDT094.abgplanet.abg.com
+IP	  10.147.1.146
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+
+Host No.: 143
+
+HOST	  ABNJSTRSHDT115.abgplanet.abg.com
+IP	  10.147.17.15
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 144
+
+HOST	  ABNJSTRSHDT096.abgplanet.abg.com
+IP	  10.147.17.21
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 145
+
+HOST	  ABNJSTRSHDT377.abgplanet.abg.com
+IP	  10.147.25.46
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 146
+
+HOST	  ABNJSTRSHDT391.abgplanet.abg.com
+IP	  10.147.24.46
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 147
+
+HOST	  ABNJSTRSHDT430.abgplanet.abg.com
+IP	  10.147.11.60
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 157
+
+IP	  10.147.7.15
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 158
+
+IP	  10.147.10.23
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 159
+
+HOST	  ABNJSTRSHDT267.abgplanet.abg.com
+IP	  10.147.17.69
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 160
+
+IP	  10.147.16.29
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 161
+
+IP	  10.147.1.101
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 162
+
+IP	  10.147.2.169
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 163
+
+IP	  10.147.17.11
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 164
+
+IP	  10.147.17.51
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 165
+
+IP	  10.147.1.208
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 166
+
+IP	  10.147.16.35
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 167
+
+HOST	  ABNJSTRSHDT203.abgplanet.abg.com
+IP	  10.147.2.22
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 168
+
+IP	  10.147.16.73
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 169
+
+HOST	  ABNJSTRSHDT418.abgplanet.abg.com
+IP	  10.147.2.107
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 170
+
+HOST	  ABNJSTRSHDT301.abgplanet.abg.com
+IP	  10.147.17.23
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 171
+
+IP	  192.168.10.1
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 172
+
+HOST	  ABNJSTRSHDT325.abgplanet.abg.com
+IP	  10.147.17.67
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 173
+
+HOST	  ABNJSTRSHDT073.abgplanet.abg.com
+IP	  10.147.17.92
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 174
+
+IP	  10.147.16.66
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 175
+
+IP	  192.168.10.2
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+
+Host No.: 176
+
+IP	  10.147.7.40
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 178
+
+IP	  10.147.7.41
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+Host No.: 179
+
+IP	  10.147.17.14
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 180
+
+IP	  10.147.3.131
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 181
+
+IP	  10.147.24.78
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 182
+
+IP	  10.147.17.52
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 183
+
+IP	  10.147.16.11
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 184
+
+IP	  10.147.10.149
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 185
+
+IP	  10.147.24.84
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 186
+
+IP	  10.147.2.125
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 187
+
+IP	  10.147.19.18
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 188
+
+IP	  10.147.11.59
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 189
+
+HOST	  ABNJSTRSHLT312.abgplanet.abg.com
+IP	  10.147.25.42
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 190
+
+HOST	  ABNJSTRSHDT463.abgplanet.abg.com
+IP	  10.147.24.44
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 191
+
+IP	  10.147.1.179
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 192
+
+IP	  10.147.21.16
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 193
+
+IP	  10.147.11.38
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 194
+
+IP	  10.147.7.16
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 195
+
+IP	  10.147.0.48
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 196
+
+IP	  10.147.16.24
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 197
+
+HOST	  ABNJSTRSHDT143.abgplanet.abg.com
+IP	  10.147.21.13
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 198
+
+HOST	  ABNJSTRSHDT020.abgplanet.abg.com
+IP	  10.147.7.25
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 199
+
+HOST	  ABNJSTRSHDT373.abgplanet.abg.com
+IP	  10.147.25.32
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+Host No.: 200
+
+HOST	  ABNJSTRSHDT045.abgplanet.abg.com
+IP	  10.147.11.28
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 201
+
+HOST	  ABNJSTRSHDT205.abgplanet.abg.com
+IP	  10.147.17.77
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 202
+
+HOST	  ABNJSTRSHDT004.abgplanet.abg.com
+IP	  10.147.11.245
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 203
+
+HOST	  ABNJSTRSHDT004.abgplanet.abg.com
+IP	  10.147.11.245
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 204
+
+HOST	  ABNJSTRSHDT337.abgplanet.abg.com
+IP	  10.147.11.245
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 205
+
+HOST	  ABNJSTRSHDT103.abgplanet.abg.com
+IP	  10.147.1.71
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+3	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+4		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 206
+
+HOST	  ABNJSTRSHDT266.abgplanet.abg.com
+IP	  10.147.24.64
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 207
+
+HOST	  ABNJSTRSHDT157.abgplanet.abg.com
+IP	  10.147.11.41
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 208
+
+HOST	  ABNJSTRSHDT027.abgplanet.abg.com
+IP	  10.147.11.24
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 208
+
+HOST	  ABNJSTRSHDT258.abgplanet.abg.com
+IP	  10.147.11.42
+
+NO VULNERABILITY FOUND
+
+Host No.: 209
+
+IP	  10.147.16.37
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 210
+
+IP	  10.147.1.196
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 211
+
+IP	  10.147.17.56
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 212
+
+IP	  10.147.19.26
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 213
+
+IP	  10.147.16.18
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 214
+
+IP	  10.147.16.56
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 215
+
+HOST	  ABNJSTRSHDT490.abgplanet.abg.com
+IP	  10.147.10.28
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 216
+
+HOST	  ABNJSTRSHDT170.abgplanet.abg.com
+IP	  10.147.11.50
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 217
+
+HOST	  ABNJSTRSHDT003.abgplanet.abg.com
+IP	  10.147.11.221
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 218
+
+HOST	  ABNJSTRSHDT105.abgplanet.abg.com
+IP	  10.147.17.76
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 219
+
+HOST	  ABNJSTRSHDT237.abgplanet.abg.com
+IP	  10.147.17.55
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 220
+
+HOST	  ABNJSTRSHDT265.abgplanet.abg.com
+IP	  10.147.0.187
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 221
+
+HOST	  ABNJSTRSHDT336.abgplanet.abg.com
+IP	  10.147.0.148
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 222
+
+HOST	  ABNJSTRSHDT049.abgplanet.abg.com
+IP	  10.147.25.45
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 223
+
+HOST	  ABNJSTRSHDT291.abgplanet.abg.com
+IP	  10.147.1.242
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 SSL Self-Signed Certificate
+6.4	cvss V2	
+4		 SMB Signing Not Required
+5.3	cvss V3	
+5	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+6		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 224
+
+HOST	  ABNJSTRSHDT294.abgplanet.abg.com
+IP	  10.147.0.236
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 225
+
+HOST	  ABNJSTRSHDT310.abgplanet.abg.com
+IP	  10.147.11.240
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 226
+
+HOST	  ABNJSTRSHDT404.abgplanet.abg.com
+IP	  10.147.21.37
+
+NO VULNERABILITY FOUND
+Host No.: 227
+
+HOST	  ABNJSTRSHDT342.abgplanet.abg.com
+IP	  10.147.0.176
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 228
+
+HOST	  ABNJSTRSHDT392.abgplanet.abg.com
+IP	  10.147.17.59
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 229
+
+HOST	  ABNJSTRSHDT177.abgplanet.abg.com
+IP	  10.147.0.166
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 230
+
+HOST	  ABNJSTRSHDT351.abgplanet.abg.com
+IP	  10.147.11.29
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 231
+
+HOST	  ABNJSTRSHDT154.abgplanet.abg.com
+IP	  10.147.0.150
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 232
+
+HOST	  ABNJSTRSHDT245.abgplanet.abg.com
+IP	  10.147.11.243
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 233
+
+HOST	  ABNJSTRSHDT300.abgplanet.abg.com
+IP	  10.147.17.60
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 234
+
+HOST	  ABNJSTRSHDT219.abgplanet.abg.com
+IP	  10.147.17.25
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 235
+
+HOST	  ABNJSTRSHDT112.abgplanet.abg.com
+IP	  10.147.1.99
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+3		 SSL Weak Hashing Algorithm
+7.5	cvss V3	CVE-2004-2761
+CWE-310
+4	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+5		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+6		 SSL Self-Signed Certificate
+6.4	cvss V2	
+7	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+8		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 236
+
+HOST	  ABNJSTRSHDT256.abgplanet.abg.com
+IP	  10.147.11.31
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 237
+
+HOST	  ABNJSTRSHDT321.abgplanet.abg.com
+IP	  10.147.0.194
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 238
+
+HOST	  ABNJSTRSHDT108.abgplanet.abg.com
+IP	  10.147.1.247
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+3		 SSL Weak Hashing Algorithm
+7.5	cvss V3	CVE-2004-2761
+CWE-310
+4	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+5		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+6		 SSL Self-Signed Certificate
+6.4	cvss V2	
+7		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+8		 SMB Signing Not Required
+5.3	cvss V3	
+9	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+10		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 239
+
+HOST	  ABNJSTRSHDT437.abgplanet.abg.com
+IP	  10.147.24.68
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 240
+
+HOST	  ABNJSTRSHDT216.abgplanet.abg.com
+IP	  10.147.0.95
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+Host No.: 241
+
+HOST	  ABNJSTRSHDT489.abgplanet.abg.com
+IP	  10.147.0.88
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+3		 SMB Signing Not Required
+5.3	cvss V3	
+4	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+5		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 242
+
+HOST	  ABNJSTRSHDT064.abgplanet.abg.com
+IP	  10.147.17.91
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 243
+
+HOST	  ABNJSTRSHDT229.abgplanet.abg.com
+IP	  10.147.17.200
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 244
+
+HOST	  ABNJSTRSHDT248.abgplanet.abg.com
+IP	  10.147.25.36
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 245
+
+IP	  10.147.24.30
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 246
+
+IP	  10.147.16.69
+
+NO VULNERABILITY FOUND
+
+Host No.: 247
+
+IP	  10.147.24.82
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 248
+
+HOST	  ABNJSTRSHLT283.abgplanet.abg.com
+IP	  10.147.24.19
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 249
+
+IP	  10.147.4.99
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 250
+
+IP	  10.147.16.54
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 251
+
+IP	  10.147.11.27
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 252
+
+IP	  10.147.1.228
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 253
+
+IP	  10.147.24.118
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 254
+
+HOST	  ABNJSTRSHLT325.abgplanet.abg.com
+IP	  10.147.11.51
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 255
+
+HOST	  ABNJSTRSHDT323.abgplanet.abg.com
+IP	  10.147.24.60
+
+NO VULNERABILITY FOUND
+
+Host No.: 256
+
+HOST	  ABNJSTRSHLT122.abgplanet.abg.com
+IP	  10.147.2.144
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 257
+
+HOST	  ABNJSTRSHDT138.abgplanet.abg.com
+IP	  10.147.21.35
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 258
+
+IP	  10.147.0.80
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 259
+
+HOST	  ABNJSTRSHDT137.abgplanet.abg.com
+IP	  10.147.10.20
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 260
+
+IP	  10.147.0.214
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 261
+
+HOST	  ABNJSTRSHDT264.abgplanet.abg.com
+IP	  10.147.25.30
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 262
+
+HOST	  ABNJSTRSHDT339.abgplanet.abg.com
+IP	  10.147.11.66
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 263
+
+HOST	  ABNJSTRSHDT079.abgplanet.abg.com
+IP	  10.147.0.249
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 264
+
+HOST	  abnjstrshdt333.abgplanet.abg.com
+IP	  10.147.11.23
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 265
+
+HOST	  ABNJSTRSHDT266.abgplanet.abg.com
+IP	  10.147.24.64
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 266
+
+HOST	  ABNJSTRSHDT192.abgplanet.abg.com
+IP	  10.147.21.29
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 267
+
+IP	  10.147.24.189
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 268
+
+IP	  10.147.2.210
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 269
+
+IP	  10.147.10.139
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 270
+
+IP	  10.147.24.20
+
+ 
+
+
+
+Host No.: 271
+
+IP	  10.147.17.93
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 272
+
+IP	  10.147.16.75
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 273
+
+HOST	  ABNJSTRSHLT190.abgplanet.abg.com
+IP	  10.147.24.17
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 274
+
+IP	  10.147.1.91
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 275
+
+IP	  10.147.24.69
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 276
+
+IP	  10.147.7.24
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 278
+
+IP	  10.147.11.14
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 279
+
+IP	  10.147.0.185
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 280
+
+HOST	  ABNJSTRSHDT045.abgplanet.abg.com
+IP	  10.147.11.28
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Medium	 SMB Signing Not Required
+5.3	cvss V3	
+2	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+3		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 281
+
+IP	  10.147.0.1
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+2		 SSL Self-Signed Certificate
+6.4	cvss V2	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 282
+
+IP	  10.147.24.53
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 283
+
+IP	  10.147.2.167
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 284
+
+IP	  10.147.10.130
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 285
+
+HOST	  ABNJSTRSHDT235.abgplanet.abg.com
+IP	  10.147.11.33
+
+NO VULNERABILITY FOUND
+
+Host No.: 286
+
+IP	  10.147.0.158
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 287
+
+IP	  10.147.10.27
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 288
+
+IP	  10.147.1.240
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 289
+
+IP	  10.147.25.12
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 290
+
+IP	  10.147.17.22
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 291
+
+IP	  10.147.0.57
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 292
+
+IP	  10.147.2.217
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 293
+
+IP	  10.147.16.67
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 293
+
+IP	  10.147.2.251
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 294
+
+IP	  10.147.16.76
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 295
+
+HOST	  ABNJSTRSHDT143.abgplanet.abg.com
+IP	  10.147.21.13
+
+NO VULNERABILITY FOUND
+
+Host No.: 296
+
+IP	   10.147.0.91
+
+NO VULNERABILITY FOUND
+
+Host No.: 297
+
+IP	  10.147.2.196
+
+NO VULNERABILITY FOUND
+
+Host No.: 298
+
+IP	  10.147.2.87
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 299
+
+HOST	  abnjstrshdt016.abgplanet.abg.com
+IP	  10.147.7.27
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 300
+
+IP	  10.147.7.54
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 301
+
+IP	  10.147.16.36
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 302
+
+IP	  10.147.7.20
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 303
+
+IP	  10.147.24.75
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 304
+
+IP	  10.147.17.27
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 305
+
+IP	  10.147.16.34
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 306
+
+IP	  10.147.16.33
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 307
+
+IP	  10.147.2.155
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 308
+
+IP	  10.147.2.176
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 309
+
+HOST	  ABNJSTRSHDT230.abgplanet.abg.com
+IP	  10.147.10.13
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 310
+
+HOST	  ABNJSTRSHLT320.abgplanet.abg.com
+IP	  10.147.2.64
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 311
+
+IP	  10.147.16.68
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 312
+
+IP	  10.147.1.197
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 313
+
+IP	  10.147.25.21
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 314
+
+IP	  10.147.21.15
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 315
+
+IP	  10.147.2.91
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 316
+
+IP	  10.147.7.19
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 317
+
+HOST	  ABNJSTRSHDT034.abgplanet.abg.com
+IP	  10.147.1.230
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 318
+
+HOST	  ABNJSTRSHDT255.abgplanet.abg.com
+IP	  10.147.17.61
+
+NO VULNERABILITY FOUND
+
+Host No.: 319
+
+HOST	  ABNJSTRSHLT314.abgplanet.abg.com
+IP	  10.147.1.227
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+Host No.: 320
+
+HOST	  ABNJSTRSHDT120.abgplanet.abg.com
+IP	  10.147.21.21
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 321
+
+IP	  10.147.2.59
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 322
+
+IP	  10.147.0.175
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 323
+
+IP	  10.147.6.233
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 324
+
+IP	  10.147.10.199
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 325
+
+IP	  10.147.21.19
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+
+Host No.: 326
+
+IP	  10.147.9.11
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 327
+
+IP	  10.147.19.13
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 328
+
+IP	  10.147.0.239
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 329
+
+HOST	  ABNJSTRSHDT497.abgplanet.abg.com
+IP	  10.147.25.44
+
+NO VULNERABILITY FOUND
+
+Host No.: 330
+
+IP	  10.147.16.71
+
+NO VULNERABILITY FOUND
+
+Host No.: 331
+
+HOST	  ABNJSTRSHDT258.abgplanet.abg.com
+IP	  10.147.11.42
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 332
+
+IP	  192.168.0.254
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 333
+
+IP	  10.147.0.86
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 334
+
+IP	  10.147.10.17
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 335
+
+HOST	  minemipmpllt070.abgplanet.abg.com
+IP	  192.168.0.2
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 336
+
+HOST	  ABNJSTRSHDT79.abgplanet.abg.com
+IP	  10.147.24.31
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 337
+
+HOST	  ABNJSTRSHDT212.abgplanet.abg.com
+IP	  10.147.24.54
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 338
+
+IP	  10.147.17.26
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 339
+
+HOST	  ABNJSTRSHDT474.abgplanet.abg.com
+IP	  10.147.17.71
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 340
+
+HOST	  ABNJSTRSHDT202.abgplanet.abg.com
+IP	  10.147.1.199
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 341
+
+IP	  10.147.0.154
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 342
+
+IP	  10.147.10.26
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 343
+
+IP	  10.147.1.120
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 344
+
+HOST	  ABNJSTRSHDT111.abgplanet.abg.com
+IP	  10.147.24.59
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 345
+
+IP	  10.147.16.40
+
+NO VULNERABILITY FOUND
+
+Host No.: 346
+
+IP	  10.147.16.57
+
+NO VULNERABILITY FOUND
+
+Host No.: 347
+
+IP	  10.147.0.104
+
+NO VULNERABILITY FOUND
+
+Host No.: 348
+
+IP	  10.147.3.193
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 349
+
+HOST	  ABNJSTRSHDT465.abgplanet.abg.com
+IP	  10.147.25.41
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 350
+
+IP	  10.147.16.14
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 351
+
+IP	  10.147.16.19
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 352
+
+IP	  10.147.16.21
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 353
+
+IP	  10.147.24.39
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 354
+
+HOST	  ABNJSTRSHDT130.abgplanet.abg.com
+IP	  10.147.11.30
+
+NO VULNERABILITY FOUND
+Host No.: 356
+
+HOST	  ABNJSTRSHLT354.abgplanet.abg.com
+IP	  10.147.21.39
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 357
+
+HOST	  ABNJSTRSHDT153.abgplanet.abg.com
+IP	  10.147.11.34
+
+NO VULNERABILITY FOUND
+
+Host No.: 358
+
+HOST	  .abgplanet.abg.com
+IP	  
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 359
+
+IP	  10.147.0.130
+
+
+ 
+
+
+
+Host No.: 360
+
+HOST	  ABNJSTRSHDT293.abgplanet.abg.com
+IP	  10.147.2.227
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SMB Signing Not Required
+5.3	cvss V3	
+6	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+7		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+80/tcp		http	
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+
+
+Host No.: 361
+
+IP	  10.147.24.11
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 362
+
+IP	  10.147.10.21
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 363
+
+IP	  10.147.0.92
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 364
+
+IP	  10.147.25.39
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 365
+
+IP	  10.147.16.39
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 366
+
+IP	  10.147.16.55
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 367
+
+IP	  
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 368
+
+IP	  10.147.19.15
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 369
+
+IP	  10.147.0.161
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 370
+
+IP	  10.147.0.94
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 371
+
+HOST	  ABNJSTRSHLT330.abgplanet.abg.com
+IP	  10.147.10.30
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 372
+
+HOST	  ABNJSTRSHLT118.abgplanet.abg.com
+IP	  10.147.24.27
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 373
+
+HOST	  ABNJSTRSHLT391.abgplanet.abg.com
+IP	  10.147.21.34
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 374
+
+HOST	  ABNJSTRSHDT256.abgplanet.abg.com
+IP	  10.147.11.31
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.2.55
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.16.32
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.16.20
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.2.130
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.24.22
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.11.41
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.0.109
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.0.78
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 
+
+IP	  10.147.24.15
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.10.191
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 
+
+IP	  10.147.2.43
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 
+
+IP	  10.147.2.43
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.2.43
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.25.18
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 
+
+HOST	  ABNJSTRSHDT163.abgplanet.abg.com
+IP	  10.147.25.24
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+2	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+3		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+4		 SSL Self-Signed Certificate
+6.4	cvss V2	
+5		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+6		 SMB Signing Not Required
+5.3	cvss V3	
+7	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+8		 OS Identification
+0.0	cvss V3	
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 
+
+HOST	  ABNJSTRSHDT254.abgplanet.abg.com
+IP	  10.147.24.62
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+HOST	  ABNJSTRSHDT299.abgplanet.abg.com
+IP	  10.147.2.208
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+Host No.: 
+
+IP	  10.147.10.22
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.19.20
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.16.28
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.1.12
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.0.254
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+IP	  10.147.0.65
+
+NO VULNERABILITY FOUND
+
+
+
+
+Host No.: 
+
+HOST	  ABNJSTRSHDT199.abgplanet.abg.com
+IP	  10.147.17.54
+
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	Critical	 Unsupported Windows OS(remote)
+9.8	cvss V3	
+2	High	 SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	cvss V3	CVE-2016-2183
+3		 SSL Weak Hashing Algorithm
+7.5	cvss V3	CVE-2004-2761
+CWE-310
+4	
+
+Medium	 SSL Certificate Cannot Be Trusted
+6.5	cvss V3	
+5		 TLS Version 1.0 Protocol Detection
+6.5	cvss V3	
+6		 SSL Self-Signed Certificate
+6.4	cvss V2	
+7		 SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	
+cvss V3	CVE-2013-2566 CVE-2015-2808
+8		 SMB Signing Not Required
+5.3	cvss V3	
+9	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+10		 OS Identification
+0.0	cvss V3	
+
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+
+Host No.: 
+
+HOST	  ABNJSTRSHDT356.abgplanet.abg.com
+IP	  10.147.2.113
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 280
+
+IP	  192.168.200.131
+
+Sl	Severity	Vulnerability name	CVSS Score	CVSS Version	Classification 
+1	
+Informational	 Common Platform Enumeration (CPE)
+0.0	cvss V3	
+2		 OS Identification
+0.0	cvss V3	
+
+
+PORT	STATE	SERVICE	VERSION
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service
+5800/tcp	open	vnc-http	TightVNC (user: abnjstrshlt388; VNC TCP port: 5900)
+5900/tcp	open	vnc	VNC (protocol 3.8)
+
+Host No.: 
+
+IP	  10.147.25.43
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.25.11
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.2.51
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.2.253
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.11.40
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.2.82
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.7.21
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.7.11
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.1.74
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.7.42
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.1.11
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.19.14
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.2.95
+
+NO VULNERABILITY FOUND
+
+
+Host No.: 
+
+IP	  10.147.2.117
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 
+
+IP	  
+
+NO VULNERABILITY FOUND
+
+
+
+Host No.: 
+
+HOST	  .abgplanet.abg.com
+IP	  
+
+NO VULNERABILITY FOUND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Detailed Information:
+
+2.	Vulnerability Name: UNSUPPORTED WINDOWS OS (REMOTE)
+Vulnerability Rating: CRITICAL
+CVSS:    9.8 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+Affected Systems:
+ABNJSTRSHDT103.abgplane t.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgpla net.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT166.abgplanet.abg.com, ABNJSTRSHDT173.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT309.abgplanet.abg.com, ABNJSTRSHDT457.abgplanet.abg.com
+Vulnerability Description	
+The remote OS or service pack is no longer supported.
+Impact	The remote version of Microsoft Windows is either missing a service pack or is no longer supported. As a result, it is likely to contain security vulnerabilities.
+
+
+Remediation	Upgrade to a supported service pack or operating system
+
+References:
+
+1. https://support.microsoft.com/en-us/lifecycle
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+
+ 
+8.	Vulnerability Name: SSL MEDIUM STRENGTH CIPHER SUITES SUPPORTED (SWEET32)
+Vulnerability Rating: HIGH
+CVSS:  7.5 CVSS:3.0/AV:N/AC:L/PR:N/Ul:N/S:U/C:H/1:N/A:N
+CVE: CVE-2016-2183
+Affected Systems:
+10.23.136.41, ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, ABNJSTRSHDT382, ABNJSTRSHDT156, ABNJSTRSHDT204
+Vulnerability Description	
+The remote service supports the use of medium strength SSL ciphers.
+
+
+Impact	The remote host supports the use of SSL ciphers that offer medium strength encryption. Nessus regards medium strength as any encryption that uses key lengths at least 64 bits and less than 112 bits, or else that uses the 3DES encryption suite.
+
+Note that it is considerably easier to circumvent medium strength encryption if the attacker is on the same physical network.
+
+
+
+Remediation	Reconfigure the affected application if possible to avoid use of medium strength ciphers.
+
+References:
+
+1.	https://www.openssl.org/blog/blog/2016/08/24/sweet32/
+2.	htt ps:// sweet32.info
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+9.	Vulnerability Name: SSL CERTIFICATE SIGNED USING WEAK HASHING ALGORITHM
+Vulnerability Rating: HIGH
+CVSS: 7.5 CVSS:3.0/AV:N/AC:L/PR:N/Ul:N/S:U/C:N/1:H/A:N
+CVE: CVE-2004-2761 
+CWE: CWE:310
+Affected Systems:
+ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com,
+ABNJSTRSHDT199.abgplanet.abg.com
+Vulnerability Description	
+An SSL certificate in the certificate chain has been signed using a weak hash algorithm.
+
+
+
+
+
+Impact	The remote service uses an SSL certificate chain that has been signed using a cryptographically weak hashing algorithm (e.g. MD2, MD4, MDS, or SHAl). These signature algorithms are known to be vulnerable to collision attacks. An attacker can exploit this to generate another certificate with the same digital signature, allowing an attacker to masquerade as the affected service.
+
+Note that this plugin reports all SSL certificate chains signed with SHA-1 that expire after January 1, 2017 as vulnerable. This is in accordance with Google's gradual sunsetting of the SHA-1 cryptographic hash algorithm.
+
+Note that certificates in the chain that are contained in the Nessus CA database (known_CA.inc) have been ignored.
+
+
+
+
+
+Remediation	Contact the Certificate Authority to have the SSL certificate reissued.
+
+References:
+
+1.	htt ps:// tools.ietf.org/ html/ rfc3279
+2.	htt p:/ / www.nessus.org/ u?9bb87bf2
+ 
+3.	http:/ / www.nessus.org/ u?e120eea 1
+ 
+4.	http:/ / www.nessus.org/ u?5d894816
+ 
+5.	htt p:/ / www.nessus.org/ u?51db68aa
+ 
+6.	http://www.nessus.org/u?9dc7bfba
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+
+ 
+11.	Vulnerability Name: SSL CERTIFICATE CANNOT BE TRUSTED
+Vulnerability Rating: MEDIUM
+CVSS:    6.5   CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+Affected Systems:
+10.23.136.41, 10.147.0.1, ABNJSTRSHDT020.abgplanet.abg .com,
+ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT357.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, ABNJSTRSHDT387.abgplanet.abg.com, ABNJSTRSHDT489.abgplanet.abg.com, DATACOLOR1, gilvkwmaldt0046.abgplanet.abg.com, gilvkwmaldt0060.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg .com, ABNJSTRSHDT382, ABNJSTRSHDT156, ABNJSTRSHDT126, ABNJSTRSHDT204, ABNJSTRSHDT349, ABNJSTRSHDT170
+Vulnerability Description	
+The SSL certificate for this service cannot be trusted.
+
+
+
+
+
+
+
+
+
+
+Impact	The server's X.509 certificate cannot be trusted. This situation can occur in three different ways, in which the chain of trust can be broken, as stated below :
+
+-	First, the top of the certificate chain sent by the server  might not be descended  from a known public certificate authority. This can occur either when the top of the chain is an unrecognized, self-signed certificate, or when intermediate certificates are missing that would connect the top of the certificate chain to a known public certificate authority.
+
+-	Second, the certificate chain may contain a certificate that is not valid at the time of the scan. This can occur either when the scan occurs before one of the certificate's 'notBefore' dates, or after one of the certificate's 'notAfter' dates.
+
+-	Third, the certificate chain may contain a signature that either didn't match the certificate's information or could not be verified. Bad signatures can be fixed by getting the certificate with the bad signature to be re-signed by its issuer. Signatures that could not be verified are the result of the certificate's issuer using a signing algorithm that Nessus either does not support or does not recognize.
+
+If the remote host is a public host in production, any break in the chain makes it more difficult for users to verify the authenticity and identity of the web server. This could make it easier to carry out man-in-the-middle attacks against the remote host.
+
+
+
+Remediation	Purchase or generate a proper SSL certificate for this service.
+
+References:
+
+1.	htt ps:// www.itu .int/ rec/T-REC-X. 509/ en
+2.	htt ps:// en.wikipedia.org/ wiki/ X. 509
+Proof of Concept	 
+Auditee's Response	
+
+ 
+12.	Vulnerability Name: TLS VERSION 1.0 PROTOCOL DETECTION
+Vulnerability Rating: MEDIUM
+CVSS:    6.5   CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N
+Affected Systems:
+10.23.136.41,  ABNJSTRSHDT049.abgplane t.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, ABNJSTRSHDT382, ABNJSTRSHDT156
+Vulnerability Description	
+The remote service encrypts traffic using an older version of TLS.
+
+
+
+
+
+Impact	The remote service accepts connections encrypted using TLS 1.0. TLS 1.0 has a number of cryptographic design flaws. Modern implementations of TLS 1.0 mitigate these problems, but newer versions of TLS like 1.2 and 1.3 are designed against these flaws and should be used whenever possible.
+
+As of  March 31, 2020, Endpoints that aren♦  t enabled for TLS 1.2 and higher will no longer function properly with major web browsers and major vendors.
+
+PCI DSS v3.2 requires that TLS 1.0 be disabled entirely by June 30, 2018, except for POS POI terminals (and the SSL/TLS termination points to which they connect) that can be verified as not being susceptible to any known exploits.
+
+
+Remediation	Enable support for TLS 1.2 and 1.3, and disable support for TLS 1.0.
+
+References:
+1. https://tools.ietf.org/ htmI/draft -ietf-tls-oldversions-deprecate-00 
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+ 
+ 
+16.	Vulnerability Name: SSL SELF-SIGNED CERTIFICATE
+Vulnerability Rating: MEDIUM
+CVSS:   6.4  CVSS2#AV:N/AC:L/Au:N/C:P/I:P/A:N
+Affected Systems:
+10.147.0.1, ABNJSTRSHDT020.abgplanet.abg .com,
+ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT357.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, ABNJSTRSHDT387.abgplanet.abg.com, ABNJSTRSHDT489.abgplanet.abg.com, DATACOLOR1, gilvkwmaldt0046.abgplanet.abg.com, gilvkwmaldt0060.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg .com, ABNJSTRSHDT382, ABNJSTRSHDT156, ABNJSTRSHDT126, ABNJSTRSHDT204, ABNJSTRSHDT349, ABNJSTRSHDT170
+Vulnerability Description	
+The SSL certificate chain for this service ends in an unrecognized self-signed certificate.
+
+
+Impact	The X. 509 certificate chain for this service is not signed by a recognized certificate authority. If the remote host is a public host in production, this nullifies the use of SSL as anyone could establish a man-in-the-middle attack against the remote host.
+
+Note that this plugin does not check for certificate chains that end in a certificate that is not self-signed, but is signed by an unrecognized certificate authority.
+Remediation	Purchase or generate a proper SSL certificate for this service.
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+18.	Vulnerability Name: SSL RC4 CIPHER SUITES SUPPORTED (BAR MITZVAH)
+Vulnerability Rating: MEDIUM
+CVSS: 5.9 CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+CVE: CVE-2013-2566 , CVE-2015-2808
+Affected Systems:
+ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDTl12.abgplanet.abg.com, ABNJSTRSHDT128.abgpla net.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, ABNJSTRSHDT156, ABNJSTRSHDT204
+Vulnerability Description	
+The remote service supports the use of the RC4 cipher.
+
+
+Impact	The remote host supports the use of RC4 in one or more cipher suites.
+The RC4 cipher is flawed in its generation of a pseudo-random stream of bytes so that a wide variety of small biases are introduced into the stream, decreasing its randomness.
+
+If plaintext is repeatedly encrypted (e.g., HTTP cookies), and an attacker is able to obtain many (i.e., tens of millions) ciphertexts, the attacker may be able to derive the plaintext.
+
+
+
+
+
+Remediation	Reconfigure the affected application, if possible, to avoid use of RC4 ciphers. Consider using TLS 1.2 with AES-GCM suites subject to browser and web server suppo rt.
+
+References:
+
+1.	https:// www.rc4nomore.com/
+2.	htt p:/ / www.nessus.org/ u?ac7327a0
+ 
+3.	http:/ /cr.yp.to/ talks/2013.03.12/ slides.pdf
+ 
+4.	http:/ / www.isg.rhul.ac.uk/ tls/
+5.	htt ps:// www.impe rva.com/ docs/HII    Attacking_SSL_when   using_RC4.pdf
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+19.	Vulnerability Name: SMB SIGNING NOT REQUIRED
+Vulnerability Rating: MEDIUM
+CVSS:   5.3 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+Affected Systems:
+ABNJSTRSHDT020.abgplanet .abg.com, ABNJSTRSHDT045.abgplane t.abg.com, ABNJSTRSHDT067.abgplanet.abg.com, ABNJSTRSHDT103.abgplanet.abg.com, ABNJSTRSHDT107.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT109.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT158.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT167.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT309.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT357.abgplanet.abg.com, ABNJSTRSHDT387.abgplanet.abg.com, ABNJSTRSHDT417.abgplanet.abg.com, ABNJSTRSHDT457.abgplanet.abg.com, ABNJSTRSHDT489.abgplanet.abg.com, gilvkwmaldt0046.abgplanet.abg.com, gilvkwmaldt0060.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, gilvkwmallt0030.abgplanet.abg.com, gilvkwmallt0037.abgplanet.abg.com, ABNJSTRSHDT156, ABNJSTRSHDT274, ABNJSTRSHDT126, ABNJSTRSHDT349, ABNJSTRSHDT027, ABNJSTRSHDT170, ABNJSTRSHDT339
+Vulnerability Description	
+Signing is not required on the remote SMB server.
+Impact	Signing is not required on the remote SMB server. An unauthenticated, remote attacker can exploit this to conduct man-in-the-middle attacks against the SMB server.
+
+
+
+
+
+Remediation	Enforce message signing in the host's configuration. On Windows, this is found in the policy setting 'Microsoft network server: Digitally sign communications (always)'. On Samba, the setting is called 'server signing'. See the 'see also' links for further details.
+
+References:
+
+1.	http://www.nessus.org/u?df39b8b3
+2.	htt p:/ /technet.microsoft .com/en-us/library/cc731957.aspx
+3.	http:/ / www.nessus.org/ u?74b80 723
+ 
+4.	https:// www.samba.org/    samba/ docs/current/ man-html/smb.conf.5.html
+5.	http://www.nessus.org/u?a3cac4ea
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+ 
+
+ 
+ 
+83. Vulnerability Name: SSH SERVER CBC MODE CIPHERS ENABLED
+Vulnerability Rating: LOW
+CVSS: 2.6 CVSS2#AV:N/AC:H/Au:N/C:P/I:N/A:N
+CVE: CVE-2008-5161 
+CWE: CWE:200
+Affected Systems:
+10.23.136.133
+Vulnerability Description	The SSH server is configured to use Cipher Block Chaining.
+
+
+Impact	The SSH server is configured to support Cipher Block Chaining (CBC) encryption. This may allow an attacker to recover the plaintext message from the ciphertext.
+
+Note that this plugin only checks for the options of the SSH server and does not check for vulnerable software versions.
+Remediation	Contact the vendor or consult product documentation to disable CBC mode cipher encryption, and enable CTR or GCM cipher mode encryption.
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+ 
+36.	Vulnerability Name: OS IDENTIFICATION
+Vulnerability Rating: INFORMATIONAL
+CVSS: 0.0
+Affected Systems:
+192.168.10 .1, 192.168.10.2, 192.168.200.131, 10.3.31.13, 10.3.31.133, 10.23 .136.41, 10.23.136.44, ABNJSTRSHDT130, 10.23.136.206, ABNJSTRSHDT370, ABNJSTRSHDT156, ABNJSTRSHDT274, ABNJSTRSHDT126
+10.23.136.82, 10.23.136.135, 10.147.0.130, ABNJSTRSHDT020.abgplanet.abg.com, ABNJSTRSHDT044, ABNJSTRSHDT290, ABNJSTRSHDT204, ABNJSTRSHDT349, ABNJSTRSHLT312, ABNJSTRSHDT027, ABNJSTRSHDT170, ABNJSTRSHDT237, ABNJSTRSHDT339,
+ABNJSTRSHDT045.abgplanet.abg.com, ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDTOS0.abgplanet.abg.com, ABNJSTRSHDT067.abgplanet.abg.com, ABNJSTRSHDT095.abgplanet.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT103.abgplanet.abg.com, ABNJSTRSHDT107.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT109.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT124.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT131.abgplanet.abg.com, ABNJSTRSHDT154.abgplanet.abg.com, ABNJSTRSHDT158.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT166.abgplanet.abg.com, ABNJSTRSHDT167.abgplanet.abg.com, ABNJSTRSHDT173.abgplanet.abg.com, ABNJSTRSHDT186.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT205.abgplanet.abg.com, ABNJSTRSHDT216.abgplanet.abg.com, ABNJSTRSHDT219.abgplanet.abg.com, ABNJSTRSHDT226.abgplanet.abg.com, ABNJSTRSHDT242.abgplanet.abg.com, ABNJSTRSHDT243.abgplanet.abg.com, ABNJSTRSHDT264.abgplanet.abg.com, ABNJSTRSHDT265.abgplanet.abg.com, ABNJSTRSHDT266.abgplanet.abg.com, ABNJSTRSHDT272.abgplanet.abg.com, ABNJSTRSHDT275.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT309.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT357.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, ABNJSTRSHDT373.abgplanet.abg.com, ABNJSTRSHDT387.abgplanet.abg.com, ABNJSTRSHDT392.abgplanet.abg.com, ABNJSTRSHDT414.abgplanet.abg.com, ABNJSTRSHDT41.7abgplanet.abg.com, ABNJSTRSHDT437.abgplanet.abg.com, ABNJSTRSHDT457.abgplanet.abg.com, ABNJSTRSHDT462.abgplanet.abg.com, ABNJSTRSHDT489.abgplanet.abg.com,
+ABNJSTRSHDT493.abgplanet.abg.com, DATACOLOR1, abnjstmumdt0001.abgplanet.abg.com, gilvkwlallt0035.abgplanet.abg.com, gilvkwmaldt0013.abgplanet.abg.com, gilvkwmaldt0031.abgplanet.abg.com, gilvkwmaldt0046.abgplanet.abg.com, gilvkwmaldt0058.abgplanet.abg.com, gilvkwmaldt0060.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, gilvkwmaldt0073.abgplanet.abg.com, gilvkwmaldt0074.abgplanet.abg.com, gilvkwmaldt0081.abgplanet.abg.com, gilvkwmaldt053.abgplanet.abg.com, gilvkwmaldt058.abgplanet.abg.com, gilvkwmaldt06.abgplanet.abg.com, gilvkwmaldt098.abgplanet.abg.com, gilvkwmaldt12.abgplanet.abg.com, gilvkwmaldt85.abgplanet.abg.com, gilvkwmallt0030.abgplanet.abg.com, gilvkwmallt0031.abgplanet.abg.com, gilvkwmallt0033.abgplanet.abg. com, gilvkwmallt0037.abgplanet.abg.com, hilhinmoult2100.abgplanet.abg.com
+Vulnerability Description	It is possible to guess the remote operating system.
+
+Impact	Using a combination of remote probes (e.g., TCP/IP, 5MB, HTTP, NTP, SNMP, etc.), it is possible to guess the name of the remote operating system in use. It is also possible sometimes to guess the version of the operating system .
+Remediation	n/a
+Proof of Concept	 
+Auditee's Response	
+
+
+ 
+
+Estimate Implementation Date	
+Closure Remark	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+37.	Vulnerability Name: COMMON PLATFORM ENUMERATION (CPE)
+Vulnerability Rating: INFORMATIONAL
+CVSS: 0.0
+Affected Systems:
+10.147.18.62, abnjstrshdt217, abnjstrshdt165, ABNJSTRSHDT037, ABNJSTRSHDT050, ABNJSTRSHDT208, ABNJSTRSHDT130, 10.23.136.206, ABNJSTRSHDT370, ABNJSTRSHDT156, ABNJSTRSHDT274, ABNJSTRSHDT184, ABNJSTRSHDT153, ABNJSTRSHDT126, ABNJSTRSHDT044, ABNJSTRSHDT290, ABNJSTRSHDT077, ABNJSTRSHDT204, ABNJSTRSHDT120, ABNJSTRSHDT349, ABNJSTRSHLT312, ABNJSTRSHDT027, ABNJSTRSHDT170, ABNJSTRSHDT237, ABNJSTRSHDT339,
+192.168.10.1, 192.168.10.2, 192.168.200.131, 10.3.31.13, 10.3.31.133, 10.23.136.41, 
+10.23.136.44, 10.23.136.48, 10.23.136.82, 10.23.136.135, ABNJSTRSHDT020.abgplanet.abg.com,
+ABNJSTRSHDT045.abgplanet.abg.com, ABNJSTRSHDT049.abgplanet.abg.com, ABNJSTRSHDTOS0.abgplanet.abg.com, ABNJSTRSHDT067.abgplanet.abg.com, ABNJSTRSHDT095.abgplanet.abg.com, ABNJSTRSHDT101.abgplanet.abg.com, ABNJSTRSHDT103.abgplanet.abg.com, ABNJSTRSHDT107.abgplanet.abg.com, ABNJSTRSHDT108.abgplanet.abg.com, ABNJSTRSHDT109.abgplanet.abg.com, ABNJSTRSHDT112.abgplanet.abg.com, ABNJSTRSHDT124.abgplanet.abg.com, ABNJSTRSHDT128.abgplanet.abg.com, ABNJSTRSHDT131.abgplanet.abg.com, ABNJSTRSHDT154.abgplanet.abg.com, ABNJSTRSHDT158.abgplanet.abg.com, ABNJSTRSHDT163.abgplanet.abg.com, ABNJSTRSHDT167.abgplanet.abg.com, ABNJSTRSHDT186.abgplanet.abg.com, ABNJSTRSHDT187.abgplanet.abg.com, ABNJSTRSHDT197.abgplanet.abg.com, ABNJSTRSHDT199.abgplanet.abg.com, ABNJSTRSHDT205.abgplanet.abg.com, ABNJSTRSHDT216.abgplanet.abg.com, ABNJSTRSHDT219.abgplanet.abg.com, ABNJSTRSHDT226.abgplanet.abg.com, ABNJSTRSHDT242.abgplanet.abg.com, ABNJSTRSHDT243.abgplanet.abg.com, ABNJSTRSHDT264.abgplanet.abg.com, ABNJSTRSHDT265.abgplanet.abg.com, ABNJSTRSHDT266.abgplanet.abg.com, ABNJSTRSHDT272.abgplanet.abg.com, ABNJSTRSHDT275.abgplanet.abg.com, ABNJSTRSHDT291.abgplanet.abg.com, ABNJSTRSHDT293.abgplanet.abg.com, ABNJSTRSHDT304.abgplanet.abg.com, ABNJSTRSHDT309.abgplanet.abg.com, ABNJSTRSHDT325.abgplanet.abg.com, ABNJSTRSHDT357.abgplanet.abg.com, ABNJSTRSHDT371.abgplanet.abg.com, ABNJSTRSHDT373.abgplanet.abg.com, ABNJSTRSHDT387.abgplanet.abg.com, ABNJSTRSHDT392.abgplanet.abg.com, ABNJSTRSHDT414.abgplanet.abg.com, ABNJSTRSHDT41.7abgplanet.abg.com, ABNJSTRSHDT437.abgplanet.abg.com, ABNJSTRSHDT457.abgplanet.abg.com, ABNJSTRSHDT462.abgplanet.abg.com, ABNJSTRSHDT489.abgplanet.abg.com,
+ABNJSTRSHDT493.abgplanet.abg.com, DATACOLOR1, abnjstmumdt0001.abgplanet.abg.com, gilvkwlallt0035.abgplanet.abg.com, gilvkwmaldt0013.abgplanet.abg.com, gilvkwmaldt0031.abgplanet.abg.com, gilvkwmaldt0046.abgplanet.abg.com, gilvkwmaldt0058.abgplanet.abg.com, gilvkwmaldt0060.abgplanet.abg.com, gilvkwmaldt0063.abgplanet.abg.com, gilvkwmaldt0073.abgplanet.abg.com, gilvkwmaldt0074.abgplanet.abg.com, gilvkwmaldt0081.abgplanet.abg.com, gilvkwmaldt053.abgplanet.abg.com, gilvkwmaldt058.abgplanet.abg.com, gilvkwmaldt06.abgplanet.abg.com, gilvkwmaldt098.abgplanet.abg.com, gilvkwmaldt12.abgplanet.abg.com, gilvkwmaldt85.abgplanet.abg.com, gilvkwmallt0030.abgplanet.abg.com, gilvkwmallt0031 .abgplanet.abg.com, gilvkwmallt0033.abgplanet.abg.com, , gilvkwmallt0037.abgplanet.abg.com, hilhinmoult2100.abgplanet.abg.com
+Vulnerability Description	It was possible to enumerate CPE names that matched on the remote system.
+
+
+Impact	By using information obtained from a Nessus scan, this plugin reports CPE (Common Platform Enumeration) matches for various hardware and software products found on a host.
+
+Note that if an official CPE is not available for the product, this plugin computes the best possible CPE based on the information available from the scan.
+Remediation	n/a
+
+References:
+	 
+ 
+
+
+
+

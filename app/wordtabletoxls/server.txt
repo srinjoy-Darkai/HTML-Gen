@@ -1,0 +1,2500 @@
+
+Server
+
+
+                                   TOTAL VULNERABILITIES IDENTIFIED
+                                                   
+
+                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 1
+
+IP	65.1.164.101/10.0.0.21
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+	
+Host No.: 2
+
+IP	65.1.243.45
+
+Host Unreachable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 3
+
+IP	172.16.2.190
+
+Open Ports:
+
+
+Port	State	Service	Version
+2000/tcp	open	cisco-sccp?	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	sip?	
+8008/tcp	open	http	
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	
+Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6	
+Informational	HTTP Methods Allowed (per directory)
+N	
+7		Traceroute Information
+N	
+
+
+Host No.: 4
+
+IP	172.16.4.106
+
+Open Ports:
+
+Port	State	Service	Version
+80/tcp	open	http	nginx 1.18.0
+2000/tcp	open	cisco-sccp?	
+3306/tcp	open	mysql	MySQL 8.0.21
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	sip?	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6	Informational	HTTP Methods Allowed (per directory)
+N	
+7		Traceroute Information
+N	
+
+
+
+
+
+
+Host No.: 5
+
+IP	172.16.4.233
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	
+Informational
+	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+Host No.: 6
+
+IP	182.18.157.19
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+Host No.: 7
+
+IP	182.18.157.33
+
+Host Unreachable
+
+
+
+
+
+Host No.: 8
+
+IP	182.18.157.34
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+Host No.: 9
+
+IP	182.18.157.44
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+Host No.: 10
+
+IP	182.18.157.45
+
+Open Ports:
+                
+                
+Port	State	Service	Version
+2000/tcp	open	cisco-sccp?	
+5060/tcp	open	sip?	
+8008/tcp	open	http	Microsoft IIS httpd 1N
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+2	Low	 Web Server Transmits Cleartext Credentials
+
+
+2.6	
+
+CVSS V2
+3	Informational	HTTP Methods Allowed (per directory)
+N	
+4		Traceroute Information
+N	
+
+
+
+
+Host No.: 11
+
+IP	182.18.157.138
+
+Host Unreachable
+
+ 
+Host No.: 12
+
+IP	182.18.157.191
+
+Host Unreachable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 13
+
+IP	3.6.115.81/10.17.21.38
+
+Host Unreachable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 14
+
+IP	10.0.1.171
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+ 
+Host No.: 15
+
+IP	10.0.1.189
+
+Host Unreachable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 16
+
+IP	  10.0.18.252
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+Host No.: 17
+
+IP	  10.2.210.19
+
+Open Ports:
+
+Port	State	Service	Version
+135/tcp	open	msrpc	Microsoft Windows RPC
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.5223
+1947/tcp	open	http	Aladdin/SafeNet HASP license manager 21.00
+2000/tcp	open	tcpwrapped	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+2		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+3	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+4		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+5		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+6		SSL Self-Signed Certificate
+6.4	CVSS V2
+7		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+8	
+Informational	HTTP Methods Allowed (per directory)
+N	
+9		Traceroute Information
+N	
+
+
+
+
+
+Host No.: 18
+
+IP	  15.207.193.217/10.17.21.31
+
+Host Unreachable
+
+
+ 
+Host No.: 19
+
+IP	  10.17.21.152
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+Host No.: 20
+
+
+IP	  10.17.21.153
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+
+Host No.: 21
+
+
+IP	  10.17.21.188
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+
+
+
+
+Host No.: 22
+
+IP	  10.17.21.254
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	HTTP Methods Allowed (per directory)
+N	
+2		Traceroute Information
+N	
+ 
+Host No.: 23
+
+IP	10.17.22.4/10.17.22.50/3.108.23.108
+
+Open Ports:
+
+Port	State	Service	Version
+135/tcp	open	msrpc?	
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2019 15.00.2000
+1720/tcp	open	h323q931?	tcpwrapped
+2000/tcp	open		
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+7		SMB Signing not required
+5.3	CVSS V3
+8	Informational	HTTP Methods Allowed (per directory)
+N	
+9		Traceroute Information
+N	
+
+
+
+Host No.: 24
+
+IP	   10.17.22.9
+
+Host Unreachable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host No.: 25
+
+IP	   10.17.22.11
+
+Host Unreachable
+
+ 
+Host No.: 26
+
+IP	   10.17.22.13
+
+Open Ports:
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.4 (protocol 2.0)
+25/tcp	open	smtp	 
+111/tcp	open	rpcbind	2-4 (RPC #100000)
+443/tcp	open	ssl/http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+1720/tcp	open	h323q931?	 
+2000/tcp	open	tcpwrapped	 
+2049/tcp	open	nfs_acl	3 (RPC #100227)
+5060/tcp	open	tcpwrapped	 
+8000/tcp	open	http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+8008/tcp	open	http	 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+2		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+3		SSL Self-Signed Certificate
+6.4	CVSS V2
+4	Low	SSH Server CBC Mode Ciphers Enabled
+2.6	CVSS V2
+5	Informational	HTTP Methods Allowed (per directory)
+N	
+6		Traceroute Information
+N	
+
+
+
+Host No.: 27
+
+IP	   10.17.22.15
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.4 (protocol 2.0)
+25/tcp	open	smtp	
+111/tcp	open	rpcbind	2-4 (RPC #100000)
+443/tcp	open	ssl/http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+1720/tcp	open	h323q931?	
+2000/tcp	open	tcpwrapped	
+2049/tcp	open	nfs_acl	3 (RPC #100227)
+3301/tcp	open	unknown	
+5060/tcp	open	tcpwrapped	
+8000/tcp	open	http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+8100/tcp	open	http	SAP Message Server httpd release 722
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+2		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+3		SSL Self-Signed Certificate
+6.4	CVSS V2
+4		Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+5	Low	SSH Server CBC Mode Ciphers Enabled
+2.6	CVSS V2
+6	Informational	Traceroute Information
+N	
+
+
+
+
+Host No.: 28
+
+IP	   10.17.22.17
+
+Open Ports:
+
+
+Port	State	Service	Version
+21/tcp	open	ftp	Microsoft ftpd
+22/tcp	open	ftp	Microsoft ftpd
+23/tcp	open	ftp	Microsoft ftpd
+24/tcp	open	ftp	Microsoft ftpd
+42/tcp	open	ftp	Microsoft ftpd
+80/tcp	open	http	Microsoft IIS httpd 1N
+135/tcp	open	msrpc?	
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+254/tcp	open	http	Microsoft IIS httpd 1N
+445/tcp	open	microsoft-ds?	
+1090/tcp	open	http	Microsoft IIS httpd 1N
+1720/tcp	open	h323q931?	
+1947/tcp	open	sentinelsrm?	
+2000/tcp	open	tcpwrapped	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+7200/tcp	open	fodms?	
+8008/tcp	open	tcpwrapped	
+8081/tcp	open	http	Microsoft IIS httpd 1N
+8082/tcp	open	http	Microsoft IIS httpd 1N
+8083/tcp	open	ms-sql-s	Microsoft SQL Server 2019 15.00.2000
+8090/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	
+
+
+Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+6		SMB Signing not required
+5.3	CVSS V3
+7		Browsable Web Directories
+5.3	CVSS V3
+8	
+Informational	HTTP Methods Allowed (per directory)
+N	
+9		Traceroute Information
+N	
+
+
+Host No.: 29
+
+IP	   10.17.22.18
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.4 (protocol 2.0)
+25/tcp	open	smtp	
+443/tcp	open	ssl/http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+1720/tcp	open	h323q931?	tcpwrapped
+2000/tcp	open		
+3300/tcp	open	ceph?	
+5060/tcp	open	tcpwrapped	
+8000/tcp	open	http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	
+
+Medium
+	 SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+2		 TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+3		 SSL Self-Signed Certificate
+6.4	CVSS V2
+4		 SSL RC4 Cipher Suites Supported (Bar   Mitzvah)
+5.9	CVSS V3
+5		 SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+7	Informational	 Traceroute Information
+N	
+
+
+
+Host No.: 30
+
+IP	   10.17.22.20
+
+Open Ports:
+
+
+Port	State	Service	Version
+21/tcp	open	ftp	Microsoft ftpd
+24/tcp	open	ftp	Microsoft ftpd
+42/tcp	open	ftp	Microsoft ftpd
+80/tcp	open	http	Microsoft IIS httpd 1N
+135/tcp	open	msrpc?	
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+1090/tcp	open	http	Microsoft IIS httpd 1N
+1720/tcp	open	h323q931?	tcpwrapped
+2000/tcp	open		
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+7200/tcp	open	fodms?	
+8008/tcp	open	http	
+8090/tcp	open	http	Microsoft IIS httpd 1N
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SMB Signing not required
+5.3	CVSS V3
+6		Browsable Web Directories
+5.3	CVSS V3
+7	Informational	HTTP Methods Allowed (per directory)
+N	
+8		Traceroute Information
+N	
+ 
+ 
+Host No.: 31
+
+IP	   10.17.22.21
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 8.1 (protocol 2.0)
+1720/tcp	open	h323q931?	tcpwrapped
+2000/tcp	open		
+3300/tcp	open	ceph?	
+5060/tcp	open	tcpwrapped	
+8008/tcp	open	http	
+50000/tcp	open	http	SAP WebDispatcher
+50001/tcp	open	ssl/http	SAP WebDispatcher
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+2	Informational	HTTP Methods Allowed (per directory)
+N	
+3		Traceroute Information
+N	
+
+
+
+Host No.: 32
+
+
+IP	   10.17.22.22
+
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.4 (protocol 2.0)
+25/tcp	open	smtp	
+1521/tcp	open	oracle-tns	Oracle TNS listener 1.3.N.0 (unauthorized)
+1720/tcp	open	h323q931?	tcpwrapped
+2000/tcp	open		
+3300/tcp	open	ceph?	
+5060/tcp	open	tcpwrapped	
+8000/tcp	open	http	SAP NetWeaver Application Server Internet Communication Manager httpd 7.22 (ICM 7.22)
+8008/tcp	open	http	
+65000/tcp	open	tcpwrapped	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Low	 SSH Server CBC Mode Ciphers Enabled
+2.6	CVSS V2
+2		 SSH Weak MAC Algorithms Enabled
+2.6	CVSS V2
+3	Informational	 Traceroute Information
+N	
+
+
+
+Host No.: 33
+
+IP	   10.17.22.87
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.4 (protocol 2.0)
+1720/tcp	open	h323q931?	
+2000/tcp	open	tcpwrapped	
+5060/tcp	open	tcpwrapped	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	 Web Application Potentially Vulnerable  to Clickjacking
+4.3	CVSS V2
+2	Low	 SSH Server CBC Mode Ciphers Enabled
+2.6	CVSS V2
+3	Informational	 Traceroute Information
+N	
+
+Host No.: 34
+
+IP	   10.23.136.4
+
+Open Ports:
+
+
+Port	State	Service	Version
+80/tcp	open	http	Microsoft IIS httpd 1N
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+443/tcp	open	ssl/http	Microsoft IIS httpd 1N
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds
+593/tcp	open	ncacn_http	Microsoft Windows RPC over HTTP 1.0
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.2000
+2000/tcp	open	tcpwrapped	
+2179/tcp	open	vmrdp?	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+5800/tcp	open	http-proxy	sslstrip
+5900/tcp	open	vnc	VNC (protocol 3.8)
+8008/tcp	open	http	
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Microsoft SQL Server Unsupported Version Detection (remote check)
+10.0	CVSS V3
+2	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+3		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+4	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+5		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+6		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+7		SSL Self-Signed Certificate
+6.4	CVSS V2
+8		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+9		SMB Signing not required
+5.3	CVSS V3
+10		SSL Certificate Expiry
+5.3	CVSS V3
+11	Informational	HTTP Methods Allowed (per directory)
+N	
+12		Traceroute Information
+N	
+ 
+ 
+Host No.: 35
+
+
+IP	   10.23.136.249
+
+Open Ports:
+
+
+Port	State	Service	Version
+7/tcp	open	echo	
+9/tcp	open	discard?	
+13/tcp	open	daytime	Microsoft Windows USA daytime
+17/tcp	open	qotd	Windows qotd (English)
+19/tcp	open	chargen	
+80/tcp	open	http	Microsoft IIS httpd 1N
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds?	
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.6214
+2000/tcp	open	tcpwrapped	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+5800/tcp	open	http-proxy	sslstrip
+5900/tcp	open	vnc	VNC (protocol 3.8)
+7070/tcp	open	ssl/realserver?	
+8008/tcp	open	http	
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	
+High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+2		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+3	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+4		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+5		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+6		Echo Service Detection
+6.5	CVSS V3
+7		Quote of the Day (QOTD) Service Detection
+6.5	CVSS V3
+8		SSL Self-Signed Certificate
+6.4	CVSS V2
+9		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+10		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+11		SMB Signing not required
+5.3	CVSS V3
+12	Informational	HTTP Methods Allowed (per directory)
+N	
+13		Traceroute Information
+N	
+ 
+
+ 
+ 
+Host No.: 36
+
+IP	   10.71.0.9
+
+Open Ports:
+
+
+Port	State	Service	Version
+80/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+443/tcp	open	ssl/http	Apache httpd 2.4.17 ((Win32) OpenSSL/1.0.2d PHP/5.5.37)
+445/tcp	open	microsoft-ds?	
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.2000
+2000/tcp	open	cisco-sccp?	
+2383/tcp	open	ms-olap4?	
+3306/tcp	open	mysql	MariaDB (unauthorized)
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	sip?	
+7070/tcp	open	ssl/realserver?	
+8008/tcp	open	http	
+8080/tcp	open	http	Apache httpd 2.4.17 ((Win32) OpenSSL/1.0.2d PHP/5.5.37)
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Microsoft SQL Server Unsupported Version Detection (remote check)
+10.0	CVSS V3
+2		PHP Unsupported Version Detection
+10.0	CVSS V3
+3		 PHP 5.5.x < 5.5.38 Multiple Vulnerabilities
+
+
+
+
+
+
+9.8	
+
+
+
+
+
+CVSS V3
+
+
+
+4		
+
+
+
+OpenSSL 1.0.2 < 1.0.2i Multiple Vulnerabilities
+
+
+
+
+9.8	
+
+
+
+CVSS V3
+5		
+
+  Apache 2.4.x < 2.4.41 Multiple Vulnerabilities
+
+
+9.1	
+
+CVSS V3
+6	
+
+High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+7		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+8		Slowloris DOS Attack
+7.5	CVSS V3
+9	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+
+6.8	
+CVSS V3
+10		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+11		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+12		SSL Self-Signed Certificate
+6.4	CVSS V2
+13		Apache 2.4.x < 2.4.35 DoS
+5.9	CVSS V3
+14		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+15		SMB Signing not required
+5.3	CVSS V3
+16		Browsable Web Directories
+5.3	CVSS V3
+17		SSL Certificate Expiry
+5.3	CVSS V3
+18		PHP expose_php Information Disclosure
+5.0	CVSS V2
+19	
+Informational	HTTP Methods Allowed (per directory)
+N	
+20		Traceroute Information
+N	
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+Host No.: 37
+
+IP	   10.71.0.10
+
+Open Ports:
+
+
+Port	State	Service	Version
+53/tcp	open	domain	Simple DNS Plus
+88/tcp	open	kerberos-sec	Microsoft Windows Kerberos (server time: 2022-02-11 10:56:22Z)
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+389/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com0.
+Site: ABGGPFKOL)
+445/tcp	open	microsoft-ds?	
+464/tcp	open	kpasswd5?	
+593/tcp	open	ncacn_http	Microsoft Windows RPC over HTTP 1.0
+636/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com0.
+Site: ABGGPFKOL)
+2000/tcp	open	tcpwrapped	
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service (CmRcService.exe)
+3268/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com0.
+Site: ABGGPFKOL)
+3269/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com0.
+Site: ABGGPFKOL)
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services
+5060/tcp	open	tcpwrapped	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5	Informational	HTTP Methods Allowed (per directory)
+N	
+6		Traceroute Information
+N	
+ 
+ 
+Host No.: 38
+
+IP	   10.71.0.13
+
+Open Ports:
+
+
+Port	State	Service	Version
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds?	tcpwrapped
+2000/tcp	open		
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+5060/tcp	open	tcpwrapped	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SMB Signing not required
+5.3	CVSS V3
+6	Informational	HTTP Methods Allowed (per directory)
+N	
+7		Traceroute Information
+N	
+
+
+
+
+Host No.: 39
+
+IP	   10.71.0.16
+
+Open Ports:
+
+
+Port	State	Service	Version
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds 
+2000/tcp	open	tcpwrapped	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+5060/tcp	open	tcpwrapped	
+5357/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP) 
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SMB Signing not required
+5.3	CVSS V3
+6	Informational	HTTP Methods Allowed (per directory)
+N	
+7		Traceroute Information
+N	
+
+
+Host No.: 40
+
+IP	   10.71.0.17
+
+Open Ports:
+
+
+Port	State	Service	Version
+80/tcp	open	http	Microsoft IIS httpd 1N 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+443/tcp	open	ssl/http	Apache httpd 2.4.47 ((Win64) OpenSSL/1.1.1k PHP/7.3.28) 
+445/tcp	open	microsoft-ds?	
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.2000 
+2000/tcp	open	tcpwrapped	
+2383/tcp	open	ms-olap4?	
+3306/tcp	open	mysql?	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+5060/tcp	open	tcpwrapped	
+5357/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP) 
+8008/tcp	open	http	
+8080/tcp	open	http	Jetty 6.1.1 
+8081/tcp	open	http	Apache httpd 2.4.47 ((Win64) OpenSSL/1.1.1k PHP/7.3.28) 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Microsoft SQL Server Unsupported Version Detection (remote check)
+10.0	CVSS V3
+2	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+3		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+4	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+5		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+6		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+7		SSL Self-Signed Certificate
+6.4	CVSS V2
+8		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+9		SMB Signing not required
+5.3	CVSS V3
+10		Browsable Web Directories
+5.3	CVSS V3
+11		SSL Certificate Expiry
+5.3	CVSS V3
+12		PHP expose_php Information Disclosure
+5.0	CVSS V2
+13	Informational	HTTP Methods Allowed (per directory)
+N	
+14		Traceroute Information
+N	
+ 
+ 
+Host No.: 41
+
+IP	   10.71.0.20
+
+Open Ports:
+
+
+Port	State	Service	Version
+21/tcp	open	ftp	IBM OS/400 FTPd 
+23/tcp	open	telnet	IBM OS/400 telnetd 
+25/tcp	open	smtp	i5/OS V5R4M0 or OS/400 smtpd 
+110/tcp	open	pop3	qpopper pop3d 
+139/tcp	open	netbios-ssn?	
+389/tcp	open	ldap?	
+445/tcp	open	microsoft-ds	
+515/tcp	open	printer	
+2000/tcp	open	tcpwrapped	
+2001/tcp	open	http	Apache httpd 
+2002/tcp	open	globe?	
+2004/tcp	open	mailbox?	
+2005/tcp	open	ssl/deslogin?	
+2006/tcp	open	invokator?	
+2008/tcp	open	conf?	
+3000/tcp	open	ppp?	
+5060/tcp	open	tcpwrapped	
+5544/tcp	open	unknown	
+5555/tcp	open	freeciv?	
+5989/tcp	open	ssl/wbem-https?	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+2		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+3		SSL Self-Signed Certificate
+6.4	CVSS V2
+4		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+5		SMB Signing not required
+5.3	CVSS V3
+6		SSL Certificate Expiry
+5.3	CVSS V3
+7	Informational	HTTP Methods Allowed (per directory)
+N	
+8		Traceroute Information
+N	
+ 
+ 
+Host No.: 42
+
+IP	   10.71.0.21
+
+Open Ports:
+
+
+Port	State	Service	Version
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds 
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.2000 
+1947/tcp	open	sentinelsrm?	
+2000/tcp	open	tcpwrapped	
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+5060/tcp	open	tcpwrapped	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Microsoft SQL Server Unsupported Version Detection (remote check)
+10.0	CVSS V3
+2	
+High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+3		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+4	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+5		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+6		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+7		SSL Self-Signed Certificate
+6.4	CVSS V2
+8		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+9		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+10		SMB Signing not required
+5.3	CVSS V3
+11	Informational	HTTP Methods Allowed (per directory)
+N	
+12		Traceroute Information
+N	
+ 
+ 
+ 
+Host No.: 43
+
+IP	   10.71.0.25
+
+Open Ports:
+
+
+Port	State	Service	Version
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds 
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2017 14.00.1000 
+1583/tcp	open	psql	Pervasive.SQL Server - Relational Engine (encrypted) 
+2000/tcp	open	cisco-sccp?	
+3351/tcp	open	psql-btrieve	Pervasive.SQL Server - Btrieve Engine 
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+5060/tcp	open	sip?	
+8008/tcp	open	http	
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6		SMB Signing not required
+5.3	CVSS V3
+7	Informational	HTTP Methods Allowed (per directory)
+N	
+8		Traceroute Information
+N	
+
+
+Host No.: 44
+
+IP	   10.71.0.43
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	HP Integrated Lights-Out mpSSH 0.2.1 (protocol 2.0) 
+80/tcp	open	http	HP Integrated Lights-Out web interface 
+443/tcp	open	ssl/http	HP Integrated Lights-Out web interface 
+2000/tcp	open	tcpwrapped	 
+5060/tcp	open	tcpwrapped	 
+8008/tcp	open	http	 
+17988/tcp	open	unknown	 
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4	Informational	HTTP Methods Allowed (per directory)
+N	
+5		Traceroute Information
+N	
+
+Host No.: 45
+
+IP	   10.71.0.44
+
+Open Ports:
+
+
+Port	State	Service	Version
+22/tcp	open	ssh	OpenSSH 7.6p1 Ubuntu 0.5 (Ubuntu Linux; protocol 2.0) 
+2000/tcp	open	tcpwrapped	
+3000/tcp	open	http	Caddy httpd 
+4000/tcp	open	http	nginx 1.17.4 
+5060/tcp	open	tcpwrapped	
+5432/tcp	open	postgresql	PostgreSQL DB 11.3 - 11.7 
+7070/tcp	open	ssl/realserver?	
+8000/tcp	open	http	nginx 1.17.4 
+8008/tcp	open	http	
+8888/tcp	open	http	Apache Tomcat 8.5.41 
+9090/tcp	open	http	Caddy httpd 
+9091/tcp	open	http	Caddy httpd 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Redis Server Unprotected by Password Authentication
+9.8	CVSS V3
+2		Apache Tomcat 7.0.x < 7.0.100 / 8.5.x < 8.5.51 / 9.0.x < 9.0.31 Multiple Vulnerabilities
+
+9.8	
+CVSS V3
+3	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5	Informational	HTTP Methods Allowed (per directory)
+N	
+6		Traceroute Information
+N	
+ 
+ 
+Host No.: 46
+
+IP	   10.147.0.3
+
+Open Ports:
+
+
+Port	State	Service	Version
+53/tcp	open	domain	Simple DNS Plus 
+88/tcp	open	kerberos-sec	Microsoft Windows Kerberos (server time: 2022-02-11 11:04:47Z) 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+389/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+445/tcp	open	microsoft-ds?	
+464/tcp	open	kpasswd5?	
+593/tcp	open	ncacn_http	Microsoft Windows RPC over HTTP 1.0 
+636/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service (CmRcService.exe) 
+3268/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+3269/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6	Low	SSH Server CBC Mode Ciphers Enabled
+2.6	CVSS V2
+7		SSH Weak MAC Algorithms Enabled
+2.6	CVSS V2
+8	Informational	Traceroute Information
+N	
+ 
+ 
+Host No.: 47
+
+IP	   10.147.0.12
+
+Open Ports:
+
+
+Port	State	Service	Version
+53/tcp	open	domain	Simple DNS Plus 
+88/tcp	open	kerberos-sec	Microsoft Windows Kerberos (server time: 2022-02-11 11:04:47Z) 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+389/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+			 Site: ABNJSTRSH) 
+445/tcp	open	microsoft-ds?	 
+464/tcp	open	kpasswd5?	 
+593/tcp	open	ncacn_http	Microsoft Windows RPC over HTTP 1.0 
+636/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+			 Site: ABNJSTRSH) 
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service (CmRcService.exe) 
+3268/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+			 Site: ABNJSTRSH) 
+3269/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+			 Site: ABNJSTRSH) 
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	
+Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6	Informational	Traceroute Information
+N	
+ 
+ 
+Host No.: 48
+
+IP	   10.147.0.13
+
+Open Ports:
+
+
+Port	State	Service	Version
+53/tcp	open	domain	Simple DNS Plus 
+88/tcp	open	kerberos-sec	Microsoft Windows Kerberos (server time: 2022-02-11 11:04:47Z) 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+389/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+445/tcp	open	microsoft-ds?	 
+464/tcp	open	kpasswd5?	 
+593/tcp	open	ncacn_http	Microsoft Windows RPC over HTTP 1.0 
+636/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+2701/tcp	open	cmrcservice	Microsoft Configuration Manager Remote Control service (CmRcService.exe) 
+3268/tcp	open	ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+3269/tcp	open	ssl/ldap	Microsoft Windows Active Directory LDAP (Domain: abg.com
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		SSL Self-Signed Certificate
+6.4	CVSS V2
+5		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+6	Informational	Traceroute Information
+N	
+ 
+
+ 
+Host No.: 49
+
+IP	   10.147.0.16
+
+Open Ports:
+
+
+Port	State	Service	Version
+21/tcp	open	ftp	Microsoft ftpd 
+80/tcp	open	http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP) 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012  microsoft-ds 
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.5223 
+1947/tcp	open	sentinelsrm?	 
+2383/tcp	open	ms-olap4?	 
+3389/tcp	open	ssl/ms-wbt-server?	 
+5800/tcp	open	vnc-http	TightVNC (user: shoper9hoserver; VNC TCP port: 5900) 
+5900/tcp	open	vnc	VNC (protocol 3.8) 
+8400/tcp	open	cvd?	 
+49152/tcp	open	msrpc	Microsoft Windows RPC 
+49153/tcp	open	msrpc	Microsoft Windows RPC 
+49154/tcp	open	msrpc	Microsoft Windows RPC 
+49155/tcp	open	msrpc	Microsoft Windows RPC 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+2		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+3		Slowloris DOS Attack
+7.5	CVSS V3
+4	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+5		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+6		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+7		SSL Self-Signed Certificate
+6.4	CVSS V2
+8		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+10		SMB Signing not required
+5.3	CVSS V3
+11	Informational	HTTP Methods Allowed (per directory)
+N	
+12		Traceroute Information
+N	
+ 
+
+ 
+ 
+Host No.: 50
+
+
+IP	   10.147.0.17
+
+Open Ports:
+
+
+Port	State	Service	Version
+7/tcp	open	echo	 
+9/tcp	open	discard?	 
+13/tcp	open	daytime	Microsoft Windows USA daytime 
+17/tcp	open	qotd	Windows qotd (English) 
+19/tcp	open	chargen	 
+42/tcp	open	tcpwrapped	 
+80/tcp	open	http	Microsoft IIS httpd 1N 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds 
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2016 13.00.5026; SP2 
+1801/tcp	open	msmq?	 
+2103/tcp	open	msrpc	Microsoft Windows RPC 
+2105/tcp	open	msrpc	Microsoft Windows RPC 
+2107/tcp	open	msrpc	Microsoft Windows RPC 
+2179/tcp	open	vmrdp?	 
+2383/tcp	open	ms-olap4?	 
+3389/tcp	open	ms-wbt-server	Microsoft Terminal Services 
+7070/tcp	open	ssl/realserver?	 
+8443/tcp	open	ssl/http	Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP) 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		Echo Service Detection
+6.5	CVSS V3
+5		Quote of the Day (QOTD) Service Detection
+6.5	CVSS V3
+6		SMB Signing not required
+5.3	CVSS V3
+7		Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+8	
+Informational	HTTP Methods Allowed (per directory)
+N	
+9		Traceroute Information
+N	
+ 
+ 
+ 
+Host No.: 51
+
+IP	10.147.0.18
+
+
+Open Ports:
+
+Port	State	Service	Version
+80/tcp	open	http	Microsoft IIS httpd 8.5 
+135/tcp	open	msrpc	Microsoft Windows RPC 
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn 
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 
+microsoft-ds 
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2016 13.00.5492 
+3071/tcp	open	ssl/csd-mgmt-port?	 
+3389/tcp	open	ssl/ms-wbt-server?	 
+5800/tcp	open	http-proxy	sslstrip 
+5900/tcp	open	vnc	VNC (protocol 3.8) 
+8086/tcp	open	http	Microsoft IIS httpd 8.5 
+8087/tcp	open	http	Microsoft IIS httpd 8.5 
+8090/tcp	open	http	Microsoft IIS httpd 8.5 
+49152/tcp	open	msrpc	Microsoft Windows RPC 
+49153/tcp	open	msrpc	Microsoft Windows RPC 
+49154/tcp	open	msrpc	Microsoft Windows RPC 
+49155/tcp	open	msrpc	Microsoft Windows RPC 
+49156/tcp	open	msrpc	Microsoft Windows RPC 
+49163/tcp	open	msrpc	Microsoft Windows RPC 
+49165/tcp	open	msrpc	Microsoft Windows RPC 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	 Blind SQL Injection Authentication Bypass
+9.8	CVSS v3
+2	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+3		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+4	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+5		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+6		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+7		SSL Self-Signed Certificate
+6.4	CVSS V2
+8		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+9		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+10		SMB Signing not required
+5.3	CVSS V3
+11		Browsable Web Directories
+5.3	CVSS V3
+12		SSL Certificate Expiry
+5.3	CVSS V3
+13	Low	
+
+Web Server Transmits Cleartext Credentials
+
+
+2.6	
+
+CVSS V2
+14	Informational	HTTP Methods Allowed (per directory)
+N	
+15		Traceroute Information
+N	
+
+
+Host No.: 52
+
+
+IP	   10.147.3.21
+
+
+Open Ports:
+
+
+Port	State	Service	Version
+7/tcp	open	echo	
+9/tcp	open	discard?	
+13/tcp	open	daytime	Microsoft Windows International daytime
+17/tcp	open	qotd	Windows qotd (English)
+19/tcp	open	chargen	
+80/tcp	open	http	Microsoft IIS httpd 8.5
+135/tcp	open	msrpc	Microsoft Windows RPC
+139/tcp	open	netbios-ssn	Microsoft Windows netbios-ssn
+445/tcp	open	microsoft-ds	Microsoft Windows Server 2008 R2 - 2012 microsoft-ds (workgroup: WORK)
+1000/tcp	open	http	Microsoft IIS httpd 8.5
+1433/tcp	open	ms-sql-s	Microsoft SQL Server 2014 12.00.2000
+1801/tcp	open	msmq?	
+2103/tcp	open	msrpc	Microsoft Windows RPC
+2105/tcp	open	msrpc	Microsoft Windows RPC
+2107/tcp	open	msrpc	Microsoft Windows RPC
+2383/tcp	open	ms-olap4?	
+3071/tcp	open	ssl/csd-mgmt-port?	
+3389/tcp	open	ssl/ms-wbt-server?	
+5800/tcp	open	http-proxy	sslstrip
+5900/tcp	open	vnc	VNC (protocol 3.8)
+7070/tcp	open	ssl/realserver?	
+49152/tcp	open	msrpc	Microsoft Windows RPC
+49153/tcp	open	msrpc	Microsoft Windows RPC
+49154/tcp	open	msrpc	Microsoft Windows RPC
+49155/tcp	open	msrpc	Microsoft Windows RPC
+49156/tcp	open	msrpc	Microsoft Windows RPC
+49161/tcp	open	msrpc	Microsoft Windows RPC
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Critical	Microsoft SQL Server Unsupported Version Detection (remote check)
+10.0	CVSS V3
+2	High	SSL Version 2 and 3 Protocol Detection
+7.5	CVSS V3
+3		SSL Medium Strength Cipher Suites Supported (SWEET32)
+7.5	CVSS V3
+4		Slowloris DOS Attack
+7.5	CVSS V3
+5	Medium	SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)
+6.8	CVSS V3
+6		SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+7		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+8		Echo Service Detection
+6.5	CVSS V3
+9		Quote of the Day (QOTD) Service Detection
+6.5	CVSS V3
+10		SSL Self-Signed Certificate
+6.4	CVSS V2
+11		SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+5.9	CVSS V3
+12		SSL Certificate with Wrong Hostname
+5.3	CVSS V3
+13		SMB Signing not required
+5.3	CVSS V3
+14		Browsable Web Directories
+5.3	CVSS V3
+15		SSL Certificate Expiry
+5.3	CVSS V3
+16		Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+17	Low	
+
+Web Server Transmits Cleartext Credentials
+
+
+2.6	
+
+CVSS V2
+18	Informational	HTTP Methods Allowed (per directory)
+N	
+19		Traceroute Information
+N	
+ 
+
+ 
+ 
+ 
+Host No.: 53
+
+IP	   13.126.67.237 / 10.17.21.33
+
+Open Ports:
+
+
+Port	State	Service	Version
+80/tcp	open	http	Apache httpd 2.4.46 ((Ubuntu)) 
+443/tcp	open	ssl/http	Apache httpd 2.4.46 ((Ubuntu)) 
+2000/tcp	open	cisco-sccp?	 
+5060/tcp	open	sip?	 
+8008/tcp	open	http	 
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	High	 Slowloris DOS Attack
+7.5	CVSS V3
+2	Medium	SSL Certificate Cannot Be Trusted
+6.5	CVSS V3
+3		TLS Version 1.0 Protocol Detection
+6.5	CVSS V3
+4		Browsable Web Directories
+5.3	CVSS V3
+5		SSL Certificate Expiry
+5.3	CVSS V3
+6		Web Application Potentially Vulnerable to Clickjacking
+4.3	CVSS V2
+
+
+
+7	Low	
+
+Web Server Transmits Cleartext Credentials
+
+
+2.6	
+
+CVSS V2
+8	Informational	HTTP Methods Allowed (per directory)
+N	
+9		Traceroute Information
+N	
+
+Host No.: 54
+
+
+IP	   13.233.29.119
+
+Open Ports:
+
+
+Port	State	Service	Version
+80/tcp	open	http	 
+2000/tcp	open	cisco-sccp?	 
+5060/tcp	open	sip?	 
+8008/tcp	open	http	 
+
+
+
+
+
+
+Sl. No.	Severity	Vulnerability Name	CVSS Score	CVSS Version
+1	Informational	Traceroute Information
+N	
+ 
+
+Host No.: 55
+
+IP	   10.147.3.20
+
+Host Unreachable
+
+
+
+ 
+ 
+	Detail Finding:
+
+1.	Vulnerability Name: Microsoft SQL Server Unsupported Version Detection (Remote Check)
+         Vulnerability Rating: Critical
+CVSS: 10                                   CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+Affected Systems: 10.23.136.4, 10.71.0.9, 10.71.0.17, 10.71.0.21, 10.147.3.21
+Vulnerability Description:	 An unsupported version of a database server is running on the remote host.
+Impact:	According to its self-reported version number, the installation of Microsoft SQL Server on the remote host is no longer supported.
+Lack of support implies that no new security patches for the product will be released by the vendor. As a result, it is likely to contain security vulnerabilities.
+Remediation:	Upgrade to a version of Microsoft SQL Server that is currently supported.
+References:
+1. http://www.nessus.org/u?d4418a57
+Proof of   Concept:	 
+Closure   Remark:	
+
+ 
+2.	Vulnerability Name: PHP Unsupported Version Detection
+         Vulnerability Rating: Critical
+CVSS: 10                       CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+Affected System: 10.71.0.9
+Vulnerability Description:	 The remote host contains an unsupported version of a web application scripting language.
+Impact:	According to its version, the installation of PHP on the remote host is no longer supported.
+Lack of support implies that no new security patches for the product will be released by the vendor. As a result, it is likely to contain security vulnerabilities.
+Remediation:	Upgrade to a version of PHP that is currently supported.
+References:
+1.	http://php.net/eol.php
+2.	https://wiki.php.net/rfc/releaseprocess
+Proof of   Concept:	 
+Closure   Remark:	
+
+ 
+3.	Vulnerability Name: PHP 5.5.X < 5.5.38 Multiple Vulnerabilities 
+         Vulnerability Rating: Critical
+CVSS: 9.8             CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H                              CVE: 2015-8879  
+Affected System: 10.71.0.9
+Vulnerability Description:	The version of PHP running on the remote web server is affected by multiple vulnerabilities.
+Impact:	According to its banner, the version of PHP running on the remote web server is 5.5.x prior to 5.5.38. It is, therefore, affected by multiple vulnerabilities:
+-	A Segfault condition occurs when accessing nvarchar(max) defined columns. (CVE-2015- 8879)
+-	A man-in-the-middle vulnerability exists, known as 'httpoxy', due to a failure to properly resolve namespace conflicts in accordance with RFC 3875 section 4.1.18. The HTTP_PROXY environment variable is set based on untrusted user data in the 'Proxy' header of HTTP requests. The HTTP_PROXY environment variable is used by some web client libraries to specify a remote proxy server. An unauthenticated, remote attacker can exploit this, via a crafted 'Proxy' header in an HTTP request, to redirect an application's internal HTTP traffic to an arbitrary proxy server where it may be observed or manipulated. (CVE-2016-5385)
+-	An overflow condition exists in the php_bz2iop_read() function within file ext/bz2/bz2.c due to improper handling of error conditions. An unauthenticated, remote attacker can exploit this, via a crafted request, to execute arbitrary code. (CVE-2016-5399)
+-	A flaw exists in the GD Graphics Library (libgd), specifically in the gdImageScaleTwoPass() function within file gd_interpolation.c, due to improper validation of user-supplied input. An unauthenticated, remote attacker can exploit this to cause a denial of service condition. (CVE- 2016-6207)
+-	A buffer overflow condition exists in the php_url_parse_ex() function. (CVE-2016-6288)
+-	An integer overflow condition exists in the virtual_file_ex() function within file Zend/zend_virtual_cwd.c due to improper validation of user-supplied input. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or the execution of arbitrary code. (CVE-2016-6289)
+-	A use-after-free error exists within the file ext/session/session.c when handling 'var_hash' destruction. An unauthenticated, remote attacker can exploit this to deference already freed memory, resulting in the execution of arbitrary code.
+(CVE-2016-6290)
+-	An out-of-bounds read error exists in the exif_process_IFD_in_MAKERNOTE() function within file ext/exif/exif.c. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or disclose memory contents. (CVE-2016-6291)
+-	A NULL pointer dereference flaw exists in the exif_process_user_comment() function within file ext/exif/exif.c. An unauthenticated, remote attacker can exploit this to cause a denial of service condition.
+(CVE-2016-6292)
+-	Multiple out-of-bounds read errors exist in the locale_accept_from_http() function within file ext/intl/locale/locale_methods.c. An unauthenticated, remote attacker can exploit these to cause a denial of service condition or disclose memory contents.
+(CVE-2016-6293, CVE-2016-6294)
+-	A use-after-free error exists within file ext/snmp/snmp.c when handling garbage collection during deserialization of user-supplied input. An unauthenticated, remote attacker can exploit
+this to deference already freed memory, resulting in the execution of arbitrary code. (CVE- 2016-6295)
+-	A heap-based buffer overflow condition exists in the simplestring_addn() function within file simplestring.c due to improper validation of user-supplied input. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or the execution of arbitrary code. (CVE-2016-6296)
+-	An integer overflow condition exists in the php_stream_zip_opener() function within file ext/zip/zip_stream.c due to improper validation of user-supplied input when handling zip streams. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or the execution of arbitrary code. (CVE-2016-6297)
+-	An out-of-bounds read error exists in the GD Graphics Library (libgd), specifically in the gdImageScaleBilinearPalette() function within file gd_interpolation.c, when handling transparent color. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or disclose memory contents.
+-	A heap-based buffer overflow condition exists in the mdecrypt_generic() function within file ext/mcrypt/mcrypt.c due to improper validation of user-supplied input. An unauthenticated, remote attacker can exploit this to cause a denial of service condition or the execution of arbitrary code.
+-	A NULL write flaw exists in the GD Graphics Library (libgd) in the gdImageColorTransparent() function due to improper handling of negative transparent colors. A remote attacker can exploit this to disclose memory contents.
+-	An overflow condition exists in the php_url_prase_ex() function due to improper validation of user-supplied input. A remote attacker can exploit this to cause a buffer overflow, resulting in a denial of service condition.
+Remediation:	Upgrade to PHP version 5.5.38 or later.
+References:
+1.	http://php.net/ChangeLog-5.php#5.5.38
+2.	https://httpoxy.org
+Proof of Concept:	 
+Closure Remark:	
+
+ 
+
+4.	Vulnerability Name: OpenSSL 1.0.2 < 1.0.2i Multiple Vulnerabilities 
+         Vulnerability Rating: Critical
+CVSS: 9.8       CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H                                  CVE: 2016-2177  
+Affected System: 10.71.0.9
+Vulnerability Description:	 The remote service is affected by multiple vulnerabilities.
+Impact:	According to its banner, the remote host is running a version of OpenSSL 1.0.2 prior to 1.0.2i. It is, therefore, affected by the following vulnerabilities:
+-	Multiple integer overflow conditions exist in s3_srvr.c, ssl_sess.c, and t1_lib.c due to improper use of pointer arithmetic for heap-buffer boundary checks. An unauthenticated, remote attacker can exploit this to cause a denial of service. (CVE-2016-2177)
+-	An information disclosure vulnerability exists in the dsa_sign_setup() function in dsa_ossl.c due to a failure to properly ensure the use of constant-time operations.
+An unauthenticated, remote attacker can exploit this, via a timing side-channel attack, to disclose DSA key information. (CVE-2016-2178)
+-	A denial of service vulnerability exists in the DTLS implementation due to a failure to properly restrict the lifetime of queue entries associated with unused out-of-order messages. An unauthenticated, remote attacker can exploit this, by maintaining multiple crafted DTLS sessions simultaneously, to exhaust memory.
+(CVE-2016-2179)
+-	An out-of-bounds read error exists in the X.509 Public Key Infrastructure Time-Stamp Protocol (TSP) implementation. An unauthenticated, remote attacker can exploit this, via a crafted time-stamp file that is mishandled by the 'openssl ts' command, to cause denial of service or to disclose sensitive information.
+(CVE-2016-2180)
+-	A denial of service vulnerability exists in the Anti-Replay feature in the DTLS implementation due to improper handling of epoch sequence numbers in records.
+An unauthenticated, remote attacker can exploit this, via spoofed DTLS records, to cause legitimate packets to be dropped. (CVE-2016-2181)
+-	An overflow condition exists in the BN_bn2dec() function in bn_print.c due to improper validation of user-supplied input when handling BIGNUM values. An unauthenticated, remote attacker can exploit this to crash the process. (CVE-2016-2182)
+-	An integer overflow condition exists in the MDC2_Update() function in mdc2dgst.c due to improper validation of user-supplied input. An unauthenticated, remote attacker can exploit this to cause a heap-based buffer overflow, resulting in a denial of service condition or possibly the execution of arbitrary code.
+(CVE-2016-6303)
+-	A flaw exists in the ssl_parse_clienthello_tlsext() function in t1_lib.c due to improper
+handling of overly large OCSP Status Request extensions from clients. An unauthenticated, remote attacker can exploit this, via large OCSP Status Request extensions, to exhaust memory resources, resulting in a denial of service condition.
+Remediation:	 Upgrade to OpenSSL version 1.0.2i or later.
+Note that the GOST ciphersuites vulnerability is not yet fixed by the vendor in an official release
+however, a patch for the issue has been committed to the OpenSSL github repository.
+References:
+1.	https://www.openssl.org/news/secadv/20160922.txt
+2.	http://www.nessus.org/u?09b29b30
+3.	https://sweet32.info/
+Proof of  Concept:	  
+
+ 
+  
+Closure    Remark:	
+
+ 
+ 
+5.	Vulnerability Name: Blind SQL Injection (Authentication Bypass)
+         Vulnerability Rating: Critical
+CVSS: 9.8                          CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H                 CVE: 2021-45814
+Affected System: 10.147.0.18
+Vulnerability Description:	Blind SQL (Structured Query Language) injection is a type of SQL Injection attack that asks the database true or false questions and determines the answer based on the applications response. This attack is often used when the web application is configured to show generic error messages, but has not mitigated the code that is vulnerable to SQL injection.
+Impact:	Using a simple page, which displays an article with given ID as the parameter, the attacker may perform a couple of simple tests to determine if the page is vulnerable to SQL Injection attacks.
+Example URL:
+http://newspaper.com/items.php?id=2
+sends the following query to the database:
+SELECT title, description, body FROM items WHERE ID = 2
+The attacker may then try to inject a query that returns ‘false’:
+http://newspaper.com/items.php?id=2 and 1=2
+Now the SQL query should look like this:
+SELECT title, description, body FROM items WHERE ID = 2 and 1=2
+If the web application is vulnerable to SQL Injection, then it probably will not return anything. To make sure, the attacker will inject a query that will return ‘true’:
+http://newspaper.com/items.php?id=2 and 1=1
+If the content of the page that returns ‘true’ is different than that of the page that returns ‘false’, then the attacker is able to distinguish when the executed query returns true or false.
+Once this has been verified, the only limitations are privileges set up by the database administrator, different SQL syntax, and the attacker’s imagination.
+Time-based
+This type of blind SQL injection relies on the database pausing for a specified amount of time, then returning the results, indicating successful SQL query executing. 
+Remediation:	As with regular SQL injection, blind SQL injection attacks can be prevented through the careful use of parameterized queries, which ensure that user input cannot interfere with the structure of the intended SQL query.
+References:
+1.	http://www.cgisecurity.com/questions/blindsql.shtml
+1.	http://www.imperva.com/application_defense_center/white_papers/blind_sql_server_injection.html
+2.	http://www.securitydocs.com/library/2651
+3.	http://seclists.org/bugtraq/2005/Feb/0288.html
+
+Proof of Concept:	1.	Go to http://10.147.0.18:8086/
+2.	Set username and password as x’or’x’=’x
+
+ 
+ 
+ 
+ 
+Closure  Remark:	
+
+ 
+ 
+6.	   Vulnerability Name: Redis Server Unprotected by Password     Authentication
+           Vulnerability Rating: Critical
+CVSS: 9.8                                CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+Affected System: 10.71.0.44
+Vulnerability Description:	A Redis server is not protected by password authentication.
+Impact:	The Redis server running on the remote host is not protected by password authentication. A remote attacker can exploit this to gain unauthorized access to the server.
+Remediation:	Enable the 'requirepass' directive in the redis.conf configuration file.
+References:
+1. https://redis.io/commands/auth
+Proof of Concept:	 
+ 
+Closure Remark:	
+
+ 
+7.	Vulnerability Name:  Apache Tomcat 7.0.X < 7.0.100 / 8.5.X < 8.5.51 / 9.0.X < 9.0.31 Multiple Vulnerabilities
+         Vulnerability Rating: Critical
+CVSS: 9.8                      CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H                      CVE:2019-17569  
+Affected System: 10.71.0.44
+Vulnerability Description:	The remote Apache Tomcat server is affected by multiple vulnerabilities.
+Impact:	The version of Tomcat installed on the remote host is 7.0.x prior to 7.0.100, 8.x prior to 8.5.51, or 9.0.x prior to 9.0.31. It is, therefore, affected by multiple vulnerabilities.
+
+-	An HTTP request smuggling vulnerability exists in Tomcat due to mishandling Transfer- Encoding headers behind a reverse proxy. An unauthenticated, remote attacker can exploit this, via crafted HTTP requests, to cause unintended HTTP requests to reach the back-end. (CVE-2019-17569)
+
+-	An HTTP request smuggling vulnerability exists in Tomcat due to bad end-of-line (EOL) parsing that allowed some invalid HTTP headers to be parsed as valid. An unauthenticated, remote attacker can exploit this, via crafted HTTP requests, to cause unintended HTTP requests to reach the back-end. (CVE-2020-1935)
+
+-	An arbitrary file read vulnerability exists in Tomcat's Apache JServ Protocol (AJP) due to an implementation defect. A remote, unauthenticated attacker could exploit this to access files which, under normal conditions, would be restricted. If the Tomcat instance supports file uploads, the vulnerability could also be leveraged to achieve remote code execution. (CVE- 2020-1938)
+
+Note that Nessus has not tested for this issue but has instead relied only on the application's self-reported version number.
+Remediation:	Upgrade to Apache Tomcat version 7.0.100, 8.5.51, 9.0.31 or later.
+
+References:
+1.	https://www.cnvd.org.cn/webinfo/show/5415
+2.	http://www.nessus.org/u?8ebe6246
+3.	http://www.nessus.org/u?4e287adb
+4.	http://www.nessus.org/u?cbc3d54e
+Proof of  Concept:	
+ 
+Closure Remark:	
+
+ 
+8.	Vulnerability Name: Apache 2.4.X < 2.4.41 Multiple Vulnerabilities
+        Vulnerability Rating: Critical
+CVSS: 9.1                               CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H               CVE: 2019-9517
+Affected System: 10.71.0.9
+Vulnerability Description:	The remote web server is affected by multiple vulnerabilities.
+Impact:	The version of Apache httpd installed on the remote host is prior to 2.4.41. It is, therefore, affected by multiple vulnerabilities as referenced in the 2.4.41 advisory, including the following:
+
+-	A limited cross-site scripting issue was reported affecting the mod_proxy error page. An attacker could cause the link on the error page to be malformed and instead point to a page of their choice. This would only be exploitable where a server was set up with proxying enabled but was misconfigured in such a way that the Proxy Error page was displayed. (CVE-2019- 10092)
+
+-	HTTP/2 (2.4.20 through 2.4.39) very early pushes, for example configured with H2PushResource, could lead to an overwrite of memory in the pushing request's pool, leading to crashes. The memory copied is that of the configured push link header values, not data supplied by the client. (CVE-2019-10081)
+
+-	Some HTTP/2 implementations are vulnerable to unconstrained internal data buffering, potentially leading to a denial of service. The attacker opens the HTTP/2 window so the peer can send without constraint
+
+however, they leave the TCP window closed so the peer cannot actually write (many of) the bytes on the wire. The attacker then sends a stream of requests for a large response object. Depending on how the servers queue the responses, this can consume excess memory, CPU, or both. (CVE-2019-9517)
+
+Note that Nessus has not tested for this issue but has instead relied only on the application's self-reported version number.
+Remediation:	Upgrade to Apache version 2.4.41 or later.
+Proof of  Concept:	 
+Closure  Remark:	
+
+ 
+9.	Vulnerability Name: SSL Version 2 And 3 Protocol Detection
+        Vulnerability Rating: High
+CVSS: 7.5                              CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+Affected Systems: 10.2.210.19, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.17, 10.71.0.21, 10.147.0.16, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	The remote service encrypts traffic using a protocol with known weaknesses.
+Impact:	The remote service accepts connections encrypted using SSL 2.0 and/or SSL 3.0. These versions of SSL are affected by several cryptographic flaws, including:
+-	An insecure padding scheme with CBC ciphers.
+-	Insecure session renegotiation and resumption schemes.
+An attacker can exploit these flaws to conduct man-in-the-middle attacks or to decrypt communications between the affected service and clients.
+Although SSL/TLS has a secure means for choosing the highest supported version of the protocol (so that these versions will be used only if the client or server support nothing better), many web browsers implement this in an unsafe way that allows an attacker to downgrade a connection (such as in POODLE). Therefore, it is recommended that these protocols be disabled entirely.
+NIST has determined that SSL 3.0 is no longer acceptable for secure communications. As of the date of enforcement found in PCI DSS v3.1, any version of SSL will not meet the PCI SSC's definition of 'strong cryptography'.
+Remediation:	Consult the application's documentation to disable SSL 2.0 and 3.0. Use TLS 1.2 (with approved cipher suites) or higher instead.
+References:
+1.	https://www.schneier.com/academic/paperfiles/paper-ssl.pdf
+2.	http://www.nessus.org/u?b06c7e95
+3.	http://www.nessus.org/u?247c4540
+4.	https://www.openssl.org/~bodo/ssl-poodle.pdf
+5.	http://www.nessus.org/u?5d15ba70
+6.	https://www.imperialviolet.org/2014/10/14/poodle.html
+7.	https://tools.ietf.org/html/rfc7507
+8.	https://tools.ietf.org/html/rfc7568
+Proof of  Concept:	 
+Closure  Remark:	
+
+ 
+10.	 Vulnerability Name: Ssl Medium Strength Cipher Suites Supported  
+(SWEET32)
+         Vulnerability Rating: High
+CVSS: 7.5                         CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N                    CVE: 2016-2183
+Affected Systems: 172.16.2.190, 172.16.4.106, 10.2.210.19, 10.17.22.4, 10.17.22.17, 10.17.22.20, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.21, 10.71.0.25, 10.71.0.43, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	The remote service supports the use of medium strength SSL ciphers.
+Impact:	The remote host supports the use of SSL ciphers that offer medium strength encryption. Nessus regards medium strength as any encryption that uses key lengths at least 64 bits and less than 112 bits, or else that uses the 3DES encryption suite.
+Remediation:	Reconfigure the affected application if possible to avoid use of medium strength ciphers.
+
+References:
+1.	https://www.openssl.org/blog/blog/2016/08/24/sweet32/
+2.	https://sweet32.info
+Proof of  Concept:	 
+Closure Remark:	
+
+ 
+11.	Vulnerability Name: Slowloris Dos Attack
+                Vulnerability Rating: High
+CVSS: 7.5                              CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N               CVE: 2007-6750
+Affected Systems: 10.147.3.21, 13.126.67.237, 10.147.0.16, 10.71.0.9
+Vulnerability Description:	Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target.
+Impact:	All amplification attacks exploit a disparity in bandwidth cost between an attacker and the targeted web resource. When the disparity in cost is magnified across many requests, the resulting volume of traffic can disrupt network infrastructure. By sending small queries that result in large responses, the malicious user is able to get more from less. When multiplying this magnification by having each bot in a botnet make similar requests, the attacker is both obfuscated from detection and reaping the benefits of greatly increased attack traffic.
+DNS flood attacks differ from DNS amplification attacks. Unlike DNS floods, DNS amplification attacks reflect and amplify traffic off unsecured DNS servers in order to hide the origin of the attack and increase its effectiveness. DNS amplification attacks use devices with smaller bandwidth connections to make numerous requests to unsecured DNS servers. The devices make many small requests for very large DNS records, but when making the requests, the attacker forges the return address to be that of the intended victim. The amplification allows the attacker to take out larger targets with only limited attack resources.
+NTP amplification, much like DNS amplification, can be thought of in the context of a malicious teenager calling a restaurant and saying “I’ll have one of everything, please call me back and tell me my whole order.” When the restaurant asks for a callback number, the number given is the targeted victim’s phone number. The target then receives a call from the restaurant with a lot of information that they didn’t request.
+The Network Time Protocol is designed to allow internet connected devices to synchronize their internal clocks, and serves an important function in internet architecture. By exploiting the monlist command enabled on some NTP servers, an attacker is able to multiply their initial request traffic, resulting in a large response. This command is enabled by default on older devices, and responds with the last 600 source IP addresses of requests which have been made to the NTP server. The monlist request from a server with 600 addresses in its memory will be 206 times larger than the initial request. This means that an attacker with 1 GB of internet traffic can deliver a 200+ gigabyte attack - a massive increase in the resulting attack traffic.
+Remediation:	For an individual or company running a website or service, mitigation options are limited. This comes from the fact that the individual’s server, while it might be the target, is not where the main effect of a volumetric attack is felt. Due to the high amount of traffic generated, the infrastructure surrounding the server feels the impact. The Internet Service Provider (ISP) or other upstream infrastructure providers may not be able to handle the incoming traffic without becoming overwhelmed. As a result, the ISP may blackhole all traffic to the targeted victim’s IP address, protecting itself and taking the target’s site off-line. Mitigation strategies, aside from offsite protective services like Cloudflare DDoS protection, are mostly preventative internet infrastructure solutions.
+Proof of   Concept:	a)
+Before DOS attack 
+ 
+
+After DOS attack
+ 
+b)
+before DOS attack
+ 
+After DOS attack
+ 
+c)
+Before Dos attack
+ 
+After DOS attack
+ 
+d)
+Before DOS attack
+ 
+ 
+After DOS attack
+ 
+ 
+Closure   Remark:	
+
+ 
+
+12.	Vulnerability Name: SSLv3 Padding Oracle On Downgraded 
+         Legacy  Encryption Vulnerability (Poodle)
+                  Vulnerability Rating: Medium
+CVSS: 6.8                               CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:N/A:N               CVE: 2014-3566
+Affected Systems: 10.2.210.19, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.17, 10.71.0.21, 10.147.0.16, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	It is possible to obtain sensitive information from the remote host with SSL/TLS-enabled services.
+Impact:	The remote host is affected by a man-in-the-middle (MitM) information disclosure vulnerability known as POODLE. The vulnerability is due to the way SSL 3.0 handles padding bytes when decrypting messages encrypted using block ciphers in cipher block chaining (CBC) mode.
+MitM attackers can decrypt a selected byte of a cipher text in as few as 256 tries if they are able to force a victim application to repeatedly send the same data over newly created SSL 3.0 connections.
+
+As long as a client and service both support SSLv3, a connection can be 'rolled back' to SSLv3, even if TLSv1 or newer is supported by the client and service.
+
+The TLS Fallback SCSV mechanism prevents 'version rollback' attacks without impacting legacy clients
+however, it can only protect connections when the client and service support the mechanism. Sites that cannot disable SSLv3 immediately should enable this mechanism.
+
+This is a vulnerability in the SSLv3 specification, not in any particular SSL implementation. Disabling SSLv3 is the only way to completely mitigate the vulnerability.
+Remediation:	Disable SSLv3.
+
+Services that must support SSLv3 should enable the TLS Fallback SCSV mechanism until SSLv3 can be disabled.
+References:
+1.	https://www.imperialviolet.org/2014/10/14/poodle.html
+2.	https://www.openssl.org/~bodo/ssl-poodle.pdf
+3.	https://tools.ietf.org/html/draft-ietf-tls-downgrade-scsv-00
+Proof of  Concept:	 
+Closure Remark:	
+
+ 
+13.	Vulnerability Name: SSL Certificate Cannot Be Trusted
+                 Vulnerability Rating: Medium
+CVSS: 6.5                                  CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+Affected Systems: 172.16.2.190, 172.16.4.106, 10.2.210.19, 10.17.22.4, 10.17.22.13, 10.17.22.15,
+10.17.22.17, 10.17.22.20, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13,
+10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.71.0.43, 10.71.0.44, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	The SSL certificate for this service cannot be trusted.
+Impact:	The server's X.509 certificate cannot be trusted. This situation can occur in three different ways, in which the chain of trust can be broken, as stated below:
+
+-	First, the top of the certificate chain sent by the server might not be descended from a known public certificate authority. This can occur either when the top of the chain is an unrecognized, self-signed certificate, or when intermediate certificates are missing that would connect the top of the certificate chain to a known public certificate authority.
+
+-	Second, the certificate chain may contain a certificate that is not valid at the time of the scan. This can occur either when the scan occurs before one of the certificate's 'notBefore' dates, or after one of the certificate's 'notAfter' dates.
+
+-	Third, the certificate chain may contain a signature that either didn't match the certificate's information or could not be verified. Bad signatures can be fixed by getting the certificate with the bad signature to be re-signed by its issuer. Signatures that could not be verified are the result of the certificate's issuer using a signing algorithm that Nessus either does not support or does not recognize.
+
+If the remote host is a public host in production, any break in the chain makes it more difficult for users to verify the authenticity and identity of the web server. This could make it easier to carry out man-in-the-middle attacks against the remote host.
+Remediation:	Purchase or generate a proper SSL certificate for this service.
+
+References:
+1.	https://www.itu.int/rec/T-REC-X.509/en
+2.	https://en.wikipedia.org/wiki/X.509
+Proof of    Concept:	 
+Closure Remark:	
+
+ 
+14.	Vulnerability Name: TLS Version 1.0 Protocol Detection
+               Vulnerability Rating: Medium
+CVSS: 6.5                                 CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N
+Affected Systems: 172.16.2.190, 172.16.4.106, 10.2.210.19, 10.17.22.4, 10.17.22.13, 10.17.22.15,
+10.17.22.17, 10.17.22.20, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.71.0.43, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	The remote service encrypts traffic using an older version of TLS.
+Impact:	The remote service accepts connections encrypted using TLS 1.0. TLS 1.0 has a number of cryptographic design flaws. Modern implementations of TLS 1.0 mitigate these problems, but newer versions of TLS like 1.2 and 1.3 are designed against these flaws and should be used whenever possible.
+
+As of March 31, 2020, Endpoints that aren’t enabled for TLS 1.2 and higher will no longer function properly with major web browsers and major vendors.
+
+PCI DSS v3.2 requires that TLS 1.0 be disabled entirely by June 30, 2018, except for POS POI terminals (and the SSL/TLS termination points to which they connect) that can be verified as not being susceptible to any known exploits.
+Remediation:	Enable support for TLS 1.2 and 1.3, and disable support for TLS 1.0.
+
+References:
+1. https://tools.ietf.org/html/draft-ietf-tls-oldversions-deprecate-00
+Proof of    Concept:	 
+Closure Remark:	
+
+ 
+15.	Vulnerability Name: Echo Service Detection
+               Vulnerability Rating: Medium
+CVSS: 6.5          CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H                  CVE:1999-0103 ,1999-0635
+Affected Systems: 10.23.136.249, 10.147.0.17, 10.147.3.21
+Vulnerability Description:	An echo service is running on the remote host.
+Impact:	The remote host is running the 'echo' service. This service echoes any data which is sent to it.
+This service is unused these days, so it is strongly advised that you disable it, as it may be used by attackers to set up denial of services attacks against this host.
+Remediation:	Below are some examples of how to disable the echo service on some common platforms, however many services can exhibit this behavior and the list below is not exhaustive.
+Consult vendor documentation for the service exhibiting the echo behavior for more information.
+Under Unix systems, comment out the 'echo' line in /etc/inetd.conf and restart the inetd process.
+Under Ubuntu systems, comment out the 'echo' line in /etc/systemd/system.conf and retart the systemd service.
+Under Windows systems, set the following registry key to 0: HKLM\System\CurrentControlSet\Services\SimpTCP\Parameters\EnableTcpEcho HKLM\System\CurrentControlSet\Services\SimpTCP\Parameters\EnableUdpEcho
+Then launch cmd.exe and type : net stop simptcp net start simptcp To restart the service.
+Proof of  Concept:	 
+Closure Remark:	
+
+ 
+16.	Vulnerability Name: Quote of The Day (QOTD) Service Detection
+               Vulnerability Rating: Medium
+CVSS: 6.5           CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H                          CVE: 1999-0103
+Affected Systems: 10.23.136.249, 10.147.0.17, 10.147.3.21
+Vulnerability Description:	The quote service (qotd) is running on this host.
+Impact:	A server listens for TCP connections on TCP port 17. Once a connection is established a short message is sent out the connection (and any data received is thrown away). The service closes the connection after sending the quote.
+
+Another quote of the day service is defined as a datagram based application on UDP. A server listens for UDP datagrams on UDP port 17.
+When a datagram is received, an answering datagram is sent containing a quote (the data in the received datagram is ignored).
+
+An easy attack is 'pingpong' which IP spoofs a packet between two machines running qotd. This will cause them to spew characters at each other, slowing the machines down and saturating the network.
+Remediation:	-	Under Unix systems, comment out the 'qotd' line in /etc/inetd.conf and restart the inetd process
+-	Under Windows systems, set the following registry keys to 0 : HKLM\System\CurrentControlSet\Services\SimpTCP\Parameters\EnableTcpQotd HKLM\System\CurrentControlSet\Services\SimpTCP\Parameters\EnableUdpQotd Then launch cmd.exe and type :
+
+net stop simptcp net start simptcp To restart the service.
+Proof of  Concept:	 
+Closure Remark	
+
+ 
+17.	Vulnerability Name: SSL Self-Signed Certificate
+               Vulnerability Rating: Medium
+CVSS: 6.4                                CVSS2#AV:N/AC:L/Au:N/C:P/I:P/A:N
+Affected Systems: 172.16.2.190, 172.16.4.106, 10.2.210.19, 10.17.22.4, 10.17.22.13, 10.17.22.15,
+10.17.22.17, 10.17.22.20,10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.71.0.44, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	The SSL certificate chain for this service ends in an unrecognized self-signed certificate.
+Impact:	The X.509 certificate chain for this service is not signed by a recognized certificate authority. If the remote host is a public host in production, this nullifies the use of SSL as anyone could establish a man-in-the-middle attack against the remote host.
+
+Note that this plugin does not check for certificate chains that end in a certificate that is not self-signed, but is signed by an unrecognized certificate authority.
+Remediation:	Purchase or generate a proper SSL certificate for this service.
+Proof of  Concept:	 
+Closure Remark:	
+
+ 
+18.	Vulnerability Name: SSL RC4 Cipher Suites Supported (Bar 
+         Mitzvah)
+               Vulnerability Rating: Medium
+CVSS: 5.9          CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N                CVE: 2013-2566 ,2015-2808
+Affected Systems: 172.16.2.190, 172.16.4.106, 10.2.210.19, 10.17.22.4,10.23.136.4, 10.23.136.249, 10.71.0.21, 10.71.0.25, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	The remote service supports the use of the RC4 cipher.
+Impact:	The remote host supports the use of RC4 in one or more cipher suites.
+The RC4 cipher is flawed in its generation of a pseudo-random stream of bytes so that a wide variety of small biases are introduced into the stream, decreasing its randomness.
+If plaintext is repeatedly encrypted (e.g., HTTP cookies), and an attacker is able to obtain many (i.e., tens of millions) ciphertexts, the attacker may be able to derive the plaintext.
+Remediation:	Reconfigure the affected application, if possible, to avoid use of RC4 ciphers. Consider using TLS 1.2 with AES-GCM suites subject to browser and web server support.
+References:
+1.	https://www.rc4nomore.com/
+2.	http://www.nessus.org/u?ac7327a0
+3.	http://cr.yp.to/talks/2013.03.12/slides.pdf
+4.	http://www.isg.rhul.ac.uk/tls/
+5.	https://www.imperva.com/docs/HII_Attacking_SSL_when_using_RC4.pdf
+Proof of   Concept:	 
+Closure Remark	
+
+ 
+19.	Vulnerability Name: Apache 2.4.X < 2.4.35 Dos
+               Vulnerability Rating: Medium
+CVSS: 5.9                               CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H            CVE: 2018-11763
+Affected System: 10.71.0.9
+Vulnerability Description:	The remote web server is affected by a denial of service vulnerability.
+Impact:	According to its banner, the version of Apache running on the remote host is 2.4.x prior to
+2.4.35. It is, therefore, affected by the following vulnerability:
+
+- By sending continuous SETTINGS frames of maximum size an ongoing HTTP/2 connection could be kept busy and would never time out. This can be abused for a DoS on the server. This only affect a server that has enabled the h2 protocol.
+
+Note that Nessus has not tested for these issues but has instead relied only on the application's self-reported version number.
+Remediation:	Upgrade to Apache version 2.4.35 or later.
+
+References:
+1.	https://archive.apache.org/dist/httpd/CHANGES_2.4.35
+2.	https://httpd.apache.org/security/vulnerabilities_24.html#2.4.35
+Proof of   Concept:	Before DOS
+ 
+ 
+After DOS
+
+ 
+ 
+Closure Remark:	
+
+ 
+ 
+20.	Vulnerability Name: SSL Certificate with Wrong Hostname
+                Vulnerability Rating: Medium
+CVSS: 5.3                                    CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+Affected Systems: 10.17.22.4, 10.17.22.17, 10.23.136.249, 10.71.0.9, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.147.0.16, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	The SSL certificate for this service is for a different host.
+Impact:	The 'commonName' (CN) attribute of the SSL certificate presented for this service is for a different machine.
+Remediation:	Purchase or generate a proper SSL certificate for this service.
+Proof of  Concept:	 
+Closure Remark:	
+
+ 
+21.	Vulnerability Name: SMB Signing Not Required
+               Vulnerability Rating: Medium
+CVSS: 5.3                                     CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+Affected Systems: 3.108.23.108, 10.17.22.4, 10.17.22.17, 10.17.22.20, 10.17.22.50, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21
+Vulnerability Description:	Signing is not required on the remote SMB server.
+Impact:	Signing is not required on the remote SMB server. An unauthenticated, remote attacker can exploit this to conduct man-in-the-middle attacks against the SMB server.
+Remediation:	Enforce message signing in the host's configuration. On Windows, this is found in the policy setting 'Microsoft network server: Digitally sign communications (always)'. On Samba, the setting is called 'server signing'. See the 'see also' links for further details.
+References:
+1.	http://www.nessus.org/u?df39b8b3
+2.	http://technet.microsoft.com/en-us/library/cc731957.aspx
+3.	http://www.nessus.org/u?74b80723
+4.	https://www.samba.org/samba/docs/current/man-html/smb.conf.5.html
+5.	http://www.nessus.org/u?a3cac4ea
+Proof of  Concept: 	 
+Closure Remark:	
+
+ 
+22.	Vulnerability Name: Browsable Web Directories
+                 Vulnerability Rating: Medium
+CVSS: 5.3                                           CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+Affected Systems: 10.17.22.17, 10.17.22.20, 10.71.0.9, 10.71.0.17,10.147.0.18, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	Some directories on the remote web server are browsable.
+Impact:	Multiple Nessus plugins identified directories on the web server that are browsable.
+
+
+
+Remediation:	Make sure that browsable directories do not leak confidential information or give access to sensitive resources. Additionally, use access restrictions or disable directory indexing for any that do.
+References:
+1. http://www.nessus.org/u?0a35179e
+Proof of  Concept:	 
+ 
+
+Closure Remark:	
+
+ 
+23.	Vulnerability Name: SSL Certificate Expiry
+               Vulnerability Rating: Medium
+CVSS: 5.3                                CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+Affected Systems: 10.23.136.4, 10.71.0.9, 10.71.0.17, 10.71.0.20, 10.147.0.18, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	The remote server's SSL certificate has already expired.
+Impact:	This plugin checks expiry dates of certificates associated with SSL- enabled services on the target and reports whether any have already expired.
+Remediation:	Purchase or generate a new SSL certificate to replace the existing one.
+Proof of  Concept:	 
+ 
+
+Closure Remark:	
+
+ 
+
+24.	Vulnerability Name: PHP Expose PHP Information Disclosure
+               Vulnerability Rating: Medium
+CVSS: 5.0                                  CVSS2#AV:N/AC:L/Au:N/C:P/I:N/A:N
+Affected Systems: 10.71.0.9, 10.71.0.17
+Vulnerability Description:	The configuration of PHP on the remote host allows disclosure of sensitive information.
+Impact:	The PHP install on the remote server is configured in a way that allows disclosure of potentially sensitive information to an attacker through a special URL. Such a URL triggers an Easter egg built into PHP itself.
+
+Other such Easter eggs likely exist, but Nessus has not checked for them.
+Remediation:	In the PHP configuration file, php.ini, set the value for 'expose_php' to 'Off' to disable this behavior. Restart the web server daemon to put this change into effect.
+References:
+1.	https://www.0php.com/php_easter_egg.php
+2.	https://seclists.org/webappsec/2004/q4/324
+Proof of   Concept:	 
+Closure Remark:	
+
+ 
+25.	Vulnerability Name: Web Application Potentially Vulnerable To  
+         Clickjacking
+                Vulnerability Rating: Medium
+CVSS: 4.3                   CVSS2#AV:N/AC:M/Au:N/C:N/I:P/A:N                                              CWE: 693
+Affected Systems: 182.18.157.45, 10.17.22.15, 10.17.22.21, 10.17.22.87, 10.147.0.17, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	The remote web server may fail to mitigate a class of web application vulnerabilities.
+Impact:	The remote web server does not set an X-Frame-Options response header or a Content- Security-Policy 'frame-ancestors' response header in all content responses. This could potentially expose the site to a clickjacking or UI redress attack, in which an attacker can trick a user into clicking an area of the vulnerable page that is different than what the user perceives the page to be. This can result in a user performing fraudulent or malicious transactions.
+X-Frame-Options has been proposed by Microsoft as a way to mitigate clickjacking attacks and is currently supported by all major browser vendors.
+Content-Security-Policy (CSP) has been proposed by the W3C Web Application Security Working Group, with increasing support among all major browser vendors, as a way to mitigate clickjacking and other attacks. The 'frame-ancestors' policy directive restricts which sources can embed the protected resource.
+Note that while the X-Frame-Options and Content-Security-Policy response headers are not the only mitigations for clickjacking, they are currently the most reliable methods that can be detected through automation. Therefore, this plugin may produce false positives if other mitigation strategies (e.g., frame-busting JavaScript) are deployed or if the page does not perform any security-sensitive transactions.
+Remediation:	Return the X-Frame-Options or Content-Security-Policy (with the 'frame-ancestors' directive) HTTP header with the page's response.
+This prevents the page's content from being rendered by another site when using the frame or iframe HTML tags.
+References:
+1.	http://www.nessus.org/u?399b1f56
+2.	https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet
+3.	https://en.wikipedia.org/wiki/Clickjacking
+Proof of Concept:	 
+Closure Remark:	
+
+ 
+26.	Vulnerability Name: Web Server Transmits Cleartext Credentials
+               Vulnerability Rating: Low
+CVSS: 2.6                 CVSS2#AV:N/AC:H/Au:N/C:P/I:N/A:N            CWE: 522 ,523 ,718 ,724 ,928 ,930
+Affected Systems: 182.18.157.45, 10.147.0.18, 10.147.3.21, 13.126.67.237
+Vulnerability Description:	The remote web server might transmit credentials in cleartext.
+Impact:	The remote web server contains several HTML form fields containing an input of type 'password' which transmit their information to a remote web server in cleartext.
+
+An attacker eavesdropping the traffic between web browser and server may obtain logins and passwords of valid users.
+Remediation:	Make sure that every sensitive form transmits content over HTTPS.
+Proof of Concept:	 
+ 
+ 
+ 
+ 
+ 
+Closure Remark:	
+
+ 
+27.	Vulnerability Name: SSH Server CBC Mode Ciphers Enabled
+               Vulnerability Rating: Low
+CVSS: 2.6         CVSS2#AV:N/AC:H/Au:N/C:P/I:N/A:N                      CVE: 2008-5161              CWE: 200
+Affected Systems: 10.17.22.13, 10.17.22.15, 10.17.22.87, 10.147.0.3, 10.17.22.22
+Vulnerability Description:	The SSH server is configured to use Cipher Block Chaining.
+Impact:	The SSH server is configured to support Cipher Block Chaining (CBC) encryption. This may allow an attacker to recover the plaintext message from the ciphertext.
+
+Note that this plugin only checks for the options of the SSH server and does not check for vulnerable software versions.
+Remediation:	Contact the vendor or consult product documentation to disable CBC mode cipher encryption, and enable CTR or GCM cipher mode encryption.
+Proof of  Concept:	 
+Closure  Remark:	
+
+ 
+28.	Vulnerability Name: SSH Weak Mac Algorithms Enabled
+               Vulnerability Rating: Low
+CVSS: 2.6                           CVSS2#AV:N/AC:H/Au:N/C:P/I:N/A:N
+Affected Systems: 10.147.0.3, 10.17.22.22
+Vulnerability Description:	The remote SSH server is configured to allow MD5 and 96-bit MAC algorithms.
+Impact:	The remote SSH server is configured to allow either MD5 or 96-bit MAC algorithms, both of which are considered weak.
+
+Note that this plugin only checks for the options of the SSH server, and it does not check for vulnerable software versions.
+Remediation:	Contact the vendor or consult product documentation to disable MD5 and 96-bit MAC algorithms.
+Proof of   Concept:	 
+Closure  Remark:	
+
+ 
+
+29.	Vulnerability Name: Http Methods Allowed (Per Directory)
+               Vulnerability Rating: Informational
+CVSS: N
+Affected Systems: 172.16.2.190, 172.16.4.106, 172.16.4.233, 182.18.157.19, 182.18.157.34,  182.18.157.44, 182.18.157.45, 3.108.23.108, 10.0.0.21, 10.0.1.171, 10.0.18.252, 10.2.210.19, 10.17.21.31,10.17.21.152, 10.17.21.153, 10.17.21.188, 10.17.21.254, 10.17.22.4, 10.17.22.13, 10.17.22.17, 10.17.22.20, 10.17.22.21, 10.17.22.50, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.71.0.43, 10.71.0.44, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21, 13.126.67.237, 65.1.164.101
+Vulnerability Description:	This plugin determines which HTTP methods are allowed on various CGI directories.
+Impact:	By calling the OPTIONS method, it is possible to determine which HTTP methods are allowed on each directory.
+
+The following HTTP methods are considered insecure:
+PUT, DELETE, CONNECT, TRACE, HEAD
+
+Many frameworks and languages treat 'HEAD' as a 'GET' request, albeit one without any body in the response. If a security constraint was set on 'GET' requests such that only 'authenticatedUsers' could access GET requests for a particular servlet or resource, it would be bypassed for the 'HEAD' version. This allowed unauthorized blind submission of any privileged GET request.
+
+As this list may be incomplete, the plugin also tests - if 'Thorough tests' are enabled or 'Enable web applications tests' is set to 'yes'
+in the scan policy - various known HTTP methods on each directory and considers them as unsupported if it receives a response code of 400, 403, 405, or 501.
+
+Note that the plugin output is only informational and does not necessarily indicate the presence of any security vulnerabilities.
+Remediation:	n/a
+
+References:
+1.	http://www.nessus.org/u?d9c03a9a
+2.	http://www.nessus.org/u?b019cbdb
+3.	https://www.owasp.org/index.php/Test_HTTP_Methods_(OTG-CONFIG-006)
+Proof of  Concept:	 
+Closure   Remark:	
+
+ 
+30.	Vulnerability Name: Traceroute Information
+               Vulnerability Rating: Informational
+CVSS: N
+Affected Systems: 172.16.2.190, 172.16.4.106, 172.16.4.233, 182.18.157.19, 182.18.157.34, 182.18.157.44, 182.18.157.45, 3.108.23.108, 10.0.0.21, 10.0.1.171, 10.0.18.252, 10.2.210.19, 10.17.21.31, 10.17.21.152, 10.17.21.153, 10.17.21.188, 10.17.21.254, 10.17.22.4, 10.17.22.11, 10.17.22.13, 10.17.22.15, 10.17.22.17, 10.17.22.18, 10.17.22.20, 10.17.22.21, 10.17.22.22, 10.17.22.50, 10.17.22.87, 10.23.136.4, 10.23.136.249, 10.71.0.9, 10.71.0.10, 10.71.0.13, 10.71.0.16, 10.71.0.17, 10.71.0.20, 10.71.0.21, 10.71.0.25, 10.71.0.43, 10.71.0.44, 10.147.0.3, 10.147.0.12, 10.147.0.13, 10.147.0.16, 10.147.0.17, 10.147.0.18, 10.147.3.21, 13.126.67.237, 13.233.29.119, 65.1.164.101
+Vulnerability Description:	It was possible to obtain Traceroute Information.
+Impact:	Makes a traceroute to the remote host.
+Remediation:	n/a
+Proof of  Concept:	 
+Closure  Remark:	
+
+
+

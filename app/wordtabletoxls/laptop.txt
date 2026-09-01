@@ -1,0 +1,251 @@
+
+
+1.	Vulnerability Name: SSL MEDIUM STRENGTH CIPHER SUITES SUPPORTED (SWEET32)
+          Vulnerability Rating: HIGH
+CVSS:  7.5 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/1:N/A:N
+CVE: CVE-2016-2183
+Affected Systems:
+abnjstrshl t018.abgplanet.abg.com, abnjstrshlt079.abgplanet.abg.com, abnjstrshl t137.abgplanet.abg.com, abnjstrshlt199.abgplanet.abg.com, abnjstrshlt220.abgplanet.abg.com, abnjstrshlt222.abgplanet.abg.com, abnjstrshlt265.abgplanet.abg.com, abnjstrshlt280.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt018, abnjstrshlt011
+Vulnerability Description	
+The remote service supports the use of medium strength SSL ciphers.
+
+
+
+Impact	The remote host supports the use of SSL ciphers that offer medium strength encryption. Nessus regards medium strength as any encryption that uses key lengths at least 64 bits and less than 112 bits, or else that uses the 3DES encryption suite.
+
+Note that it is considerably easier to circumvent medium strength encryption if the attacker is on the same physical network.
+
+
+
+Remediation	Reconfigure the affected application if possible to avoid use of medium strength ciphers.
+
+References:
+https://www.openssl.org/blog/blog/2016/08/24/sweet32/
+https://sweet32.info
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure   Remark	
+
+ 
+2.	Vulnerability Name: SSL CERTIFICATE SIGNED USING WEAK HASHING ALGORITHM
+         Vulnerability Rating: HIGH
+CVSS:  7.5 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/1:H/A:N
+CVE: CVE-2004-2761 
+CWE: CWE:310
+Affected Systems:
+abnjstrshlt149.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com
+Vulnerability Description	An SSL certificate in the certificate chain has been signed using a weak hash algorithm.
+
+
+
+
+
+Impact	The remote service uses an SSL certificate chain that has been signed using a cryptographically weak hashing algorithm (e.g. MD2, MD4, MOS, or SHAl ) . These signature algorithms are known to be vulnerable to collision attacks. An attacker can exploit this to generate another certificate with the same digital signature, allowing an attacker to masquerade as the affected service.
+Note that this plugin reports all SSL certificate chains signed with SHA-1 that expire after January 1, 2017 as vulnerable. This is in accordance with Google's gradual sunsetting of the SHA-1 cryptographic hash algorithm.
+Note that certificates in the chain that are contained in the Nessus CA database (known_CA.inc) have been ignored.
+
+
+
+
+Remediation	Contact the Certificate Authority to have the SSL certificate reissued.
+References:
+https://tools.ietf.org/html/rfc3279
+http:// www.nessus.org/u?9bb87bf2
+http:// www.nessus.org/u ?e1 20eea1
+http:// www.nessus.org/u?5d894816
+http:// www.nessus.org/u?51db68aa
+http:// www.nessus.org/u?9dc7bfba
+
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+3.	Vulnerability Name: SLOWLORIS DOS ATTACK
+          Vulnerability Rating: HIGH
+CVSS: 7.5 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+CVE: CVE-2007-6750
+
+Affected Systems:
+10.147.3.182, 10.147.6.24, 10.147.11.35, 10.147.11.18 
+Vulnerability Description	Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target.
+
+
+Impact	All amplification attacks exploit a disparity in bandwidth cost between an attacker and the targeted web resource. When the disparity in cost is magnified across many requests, the resulting volume of traffic can disrupt network infrastructure. By sending small queries that result in large responses, the malicious user is able to get more from less. When multiplying this magnification by having each bot in a botnet make similar requests, the attacker is both obfuscated from detection and reaping the benefits of greatly increased attack traffic.
+DNS flood attacks differ from DNS amplification attacks. Unlike DNS floods, DNS amplification attacks reflect and amplify traffic off unsecured DNS servers in order to hide the origin of the attack and increase its effectiveness. DNS amplification attacks use devices with smaller bandwidth connections to make numerous requests to unsecured DNS servers. The devices make many small requests for very large DNS records, but when making the requests, the attacker forges the return address to be that of the intended victim. The amplification allows the attacker to take out larger targets with only limited attack resources.
+NTP amplification, much like DNS amplification, can be thought of in the context of a malicious teenager calling a restaurant and saying “I’ll have one of everything, please call me back and tell me my whole order.” When the restaurant asks for a callback number, the number given is the targeted victim’s phone number. The target then receives a call from the restaurant with a lot of information that they didn’t request.
+The Network Time Protocol is designed to allow internet connected devices to synchronize their internal clocks, and serves an important function in internet architecture. By exploiting the monlist command enabled on some NTP servers, an attacker is able to multiply their initial request traffic, resulting in a large response. This command is enabled by default on older devices, and responds with the last 600 source IP addresses of requests which have been made to the NTP server. The monlist request from a server with 600 addresses in its memory will be 206 times larger than the initial request. This means that an attacker with 1 GB of internet traffic can deliver a 200+ gigabyte attack - a massive increase in the resulting attack traffic.
+
+
+Remediation	For an individual or company running a website or service, mitigation options are limited. This comes from the fact that the individual’s server, while it might be the target, is not where the main effect of a volumetric attack is felt. Due to the high amount of traffic generated, the infrastructure surrounding the server feels the impact. The Internet Service Provider (ISP) or other upstream infrastructure providers may not be able to handle the incoming traffic without becoming overwhelmed. As a result, the ISP may blackhole all traffic to the targeted victim’s IP address, protecting itself and taking the target’s site off-line. Mitigation strategies, aside from offsite protective services like Cloudflare DDoS protection, are mostly preventative internet infrastructure solutions.
+Proof of Concept	Before DOS
+ 
+
+After DOS
+ 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+4.	Vulnerability Name: SSL CERTIFICATE CANNOT BE TRUSTED
+          Vulnerability Rating: MEDIUM
+CVSS: 6.5 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+Affected Systems:
+abnjstrshltOll.abgplanet.abg.com, abnjstrshlt016.abgplanet.abg.com, abnjstrshlt018.abgplanet.abg.com, abnjstrshlt023.abgplanet.abg.com, abnjstrshlt030.abgplanet.abg.com, abnjstrshlt063.abgplanet.abg.com, abnjstrshlt079.abgplanet.abg.com, abnjstrshlt106.abgplanet.abg.com, abnjstrshlt137.abgplanet.abg.com, abnjstrshlt139.abgplanet.abg.com, abnjstrshlt140.abgplanet.abg.com, abnjstrshltl 49.abgplanet.abg.com, abnjstrshltl49.abgplanet.abg.com, abnjstrshltl49.abgplanet.abg.com, abnjstrshl t157.abgplanet.abg.com, abnjstrshlt188.abgplanet.abg.com, abnjstrshl t189.abgplanet.abg.com, abnjstrshlt195.abgplanet.abg.com, abnjstrshlt199.abgplanet.abg.com, abnjstrshlt202.abgplanet.abg.com, abnjstrshlt220.abgplanet.abg.com, abnjstrshlt222.abgplanet.abg.com, abnjstrshlt265.abgplanet.abg.com, abnjstrshlt279.abgplanet.abg.com, abnjstrshlt280.abgplanet.abg.com, abnjstrshlt284.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt365.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt011, abnjstrshlt149
+Vulnerability Description	The SSL certificate for this service cannot be trusted.
+Impact	The server's X.509 certificate cannot be trusted. This situation can occur in three different ways, in which the chain of trust can be broken, as stated below :
+First, the top of the certificate chain sent by the server might not be descended from a known public certificate authority. This can occur either when the top of the chain is an unrecognized, self-signed certificate, or when intermediate certificates are missing that would connect the top of the certificate chain to a known public certificate authori ty.
+Second, the certificate chain may contain a certificate that is not valid at the time of the scan. This can occur either when the scan occurs before one of the certificate's 'notBefore' dates, or after one of the certificate's 'notAfter' dates.
+Third, the certificate chain may contain a signature that either didn't match the certificate's information or could not be verified. Bad signatures can be fixed by getting the certificate with the bad signature to be re-signed by its issuer. Signatures that could not be verified are the result of the certificate's issuer using a signing algorithm that Nessus either does not support or does not recognize.
+If the remote host is a public host in production, any break in the chain makes it more difficult for users to verify the authenticity and identity of the web server. This could make it easier to carry out man-in-the-middle attacks against the remote host.
+
+Remediation	Purchase or generate a proper SSL certificate for this service.
+
+References:
+https://www.itu.int/rec/T-REC-X.509/en
+https://en.wikipedia.org/ wiki/X.5 09
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+
+5.	Vulnerability Name: TLS VERSION 1.0 PROTOCOL DETECTION
+          Vulnerability Rating: MEDIUM
+CVSS:  6.5 CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/1:L/A:N
+Affected Systems:
+abnjstrshlt018.abgplanet.abg.com, abnjstrshlt079.abgplanet.abg.com, abnjstrshlt137.abgplanet.abg.com, abnjstrshlt199.abgplanet.abg.com, abnjstrshlt220.abgplanet.abg.com, abnjstrshlt222.abgplanet.abg.com, abnjstrshlt265.abgplanet.abg.com, abnjstrshlt280.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt011
+Vulnerability Description	The remote service encrypts traffic using an older version of TLS.
+
+
+
+
+
+Impact	The remote service accepts connections encrypted using TLS 1.0. TLS 1.0 has a number of cryptographic design flaws. Modern implementations of TLS 1.0 mitigate these problems, but newer versions of TLS like 1.2 and 1.3 are designed against these flaws and should be used whenever possible.
+
+As of March 31, 2020, Endpoints that aren♦  t enabled for TLS 1.2 and higher will no longer function properly with major web browsers and major vendors.
+
+PCI DSS v3.2 requires that TLS 1.0 be disabled entirely by June 30, 2018, except for POS POI terminals (and the SSL/TLS termination points to which they connect) that can be verified as not being susceptible to any known exploits.
+
+
+Remediation	Enable support for TLS 1.2 and 1.3, and disable support for TLS 1.0.
+
+References:
+1. https://tools.ietf.org/html/draft-ie tf-tls-oldversions-deprecate-00
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+6.	Vulnerability Name: SSL SELF-SIGNED CERTIFICATE
+           Vulnerability Rating: MEDIUM
+CVSS:  6.4 CVSS2#AV:N/AC:L/Au:N/C:P/I:P/A:N
+Affected Systems:
+abnjstrshltOll.abgplanet.abg.com, abnjstrshlt016.abgplanet.abg.com, abnjstrshlt018.abgplanet.abg.com, abnjstrshlt023.abgplanet.abg.com, abnjstrshlt030.abgplanet.abg.com, abnjstrshlt063.abgplanet.abg.com, abnjstrshlt079.abgplanet.abg.com, abnjstrshlt106.abgplanet.abg.com, abnjstrshlt137.abgplanet.abg.com, abnjstrshlt139.abgplanet.abg.com, abnjstrshlt140.abgplanet.abg.com, abnjstrshltl 49.abgplanet.abg.com, abnjstrshltl49.abgplanet.abg.com, abnjstrshltl49.abgplanet.abg.com, abnjstrshl t157.abgplanet.abg.com, abnjstrshlt188.abgplanet.abg.com, abnjstrshlt189.abgplane t.abg.com, abnjstrshlt195.abgplanet.abg.com, abnjstrshlt199.abgplanet.abg.com, abnjstrshlt202.abgplanet.abg.com, abnjstrshlt220.abgplanet.abg.com, abnjstrshlt222.abgplanet.abg.com, abnjstrshlt265.abgplanet.abg.com, abnjstrshlt279.abgplanet.abg.com, abnjstrshlt280.abgplanet.abg.com, abnjstrshlt284.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt365.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt011, abnjstrshlt149
+Vulnerability Description	
+The SSL certificate chain for this service ends in an unrecognized self-signed certificate.
+
+
+Impact	The X.509 certificate chain for this service is not signed by a recognized certificate authority. If the remote host is a public host in production, this nullifies the use of SSL as anyone could establish a man-in-the-middle attack against the remote host.
+
+Note that this plugin does not check for certificate chains that end in a certificate that is not self-signed, but is signed by an unrecognized certificate authority.
+Remediation	Purchase or generate a proper SSL certificate for this service.
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+7.	Vulnerability Name: SSL RC4 CIPHER SUITES SUPPORTED (BAR MITZVAH)
+          Vulnerability Rating: MEDIUM
+CVSS:   5.9 CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+CVE: CVE-2013-2566 , CVE-2015 -2808
+Affected Systems:
+abnjstrshltOll.abgplanet.abg.com, abnjstrshlt023.abgplanet.abg.com, abnjstrshlt189.abgplanet.abg.com, abnjstrshl t195.abgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt195
+Vulnerability Description	
+The remote service supports the use of the RC4 cipher.
+
+
+Impact	The remote host supports the use of RC4 in one or more cipher suites.
+The RC4 cipher is flawed in its generation of a pseudo-random stream of bytes so that a wide variety of small biases are introduced into the stream, decreasing its randomness.
+If plaintext is repeatedly encrypted (e.g., HTTP cookies), and an attacker is able to obtain many (i.e., tens of millions) ciphertexts, the attacker may be able to derive the plaintext.
+
+
+
+
+Remediation	Reconfigure the affected application, if possible, to avoid use of RC4 ciphers . Consider using TLS 1.2 with AES-GCM suites subject to browser and web server support.
+
+References:
+https:// www.rc4nomore.com/
+http:// www.nessus.org/u ?ac7327a0
+http://cr.yp.to/talks/ 2013.03.12/slides.pdf
+http://www.isg.rhul.ac.uk/tls/
+https:// www.imperva.com/docs/HII Attacking_SSL_when using_RC4.pdf
+
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+
+ 
+8.	Vulnerability Name: SMB SIGNING NOT REQUIRED
+           Vulnerability Rating: MEDIUM
+CVSS:   5.3 CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/1:L/A:N
+Affected Systems:
+abnjstrshdt152.abgplanet.abg.com, abnjstrshltO11.abgplanet.abg.com, abnjstrshltO16.abgplanet.abg.com, abnjstrshlt023.abgplanet.abg.com, abnjstrshlt030.abgplanet.abg.com, abnjstrshlt031.abgplanet.abg.com, abnjstrshlt036.abgplanet.abg.com, abnjstrshl t047.abgplanet.abg.coma, bnjstrshlt065.abgplane t.abg.com, abnjstrshlt068.abgplanet.abg.com, abnjstrshlt088.abgplanet.abg.com, abnjstrshlt095.abgplanet.abg.com, abnjstrshlt097.abgplanet.abg.com, abnjstrshltl05.abgplanet.abg.com, abnjstrshlt106.abgplanet.abg.com, abnjstrshltl 10.abgplanet.abg.com, abnjstrshltl11.abgplanet.abg.com, abnjstrshlt120.abgplanet.abg.com, abnjstrshlt123.abgplanet.abg.com, abnjstrshlt137.abgplanet.abg.com, abnjstrshlt139.abgplanet.abg.com, abnjstrshltl 40.abgplanet.abg.com, abnjstrshltl49.abgplanet.abg.com, abnjstrshlt157.abgplanet.abg.com, abnjstrshlt168.abgplanet.abg.com, abnjstrshlt172.abgplanet.abg.com, abnjstrshlt180.abgplanet.abg.com, abnjstrshlt188.abgplanet.abg.com, abnjstrshlt194.abgplanet.abg.com, abnjstrshlt195.abgplanet.abg.com, abnjstrshl t199.abgplanet.abg.com, abnjstrshlt210.abgplanet.abg.com, abnjstrshlt213.abgplanet.abg.com, abnjstrshlt214.abgplanet.abg.com, abnjstrshlt236.abgplanet.abg.com, abnjstrshlt239.abgplanet.abg.com, abnjstrshlt256.abgplanet.abg.com, abnjstrshlt259.abgplanet.abg.com, abnjstrshlt284.abgplanet.abg.com, abnjstrshlt289.a bgplanet.abg.com, abnjstrshlt310.abgplanet.abg.com, abnjstrshlt316.abgplanet.abg.com, abnjstrshlt338.abgplanet.abg.com, abnjstrshlt365.abgplanet.abg.com, abnjstrshlt376.abgplanet.abg.com, abnjstrshlt381.a bgplanet.abg.com, abnjstrshlt388.abgplanet.abg.com, abnjstrshlt78.abgplanet.abg .com, abnjstrshdt274, 10.147.6.241, abnjstrshlt110, 10.147.6.217, abnjstrshlt016, abnjstrshlt105, ABNJSTRSHLT175, ABNJSTRSHLT255, abnjstrshlt199, abnjstrshlt111, ABNJSTRSHLT050, abnjstrshlt149, abnjstrshlt065
+Vulnerability Description	
+Signing is not required on the remote SMB server.
+Impact	Signing is not required on the remote SMB server. An unauthenticated, remote attacker can exploit this to conduct man-in-the-middle attacks against the SMB server.
+
+
+
+
+
+Remediation	Enforce message signing in the host's configuration. On Windows, this is found in the policy setting 'Microsoft network server: Digitally sign communications (always)'. On Samba, the setting is called 'server signing'. See the 'see also' links for further details.
+
+References:
+http:// www.nessus.org/u?df39b8b3
+http://technet.microsoft.com/ en-us/library /cc731957.aspx
+http:// www.nessus.org/u?74b80723
+https:// www.samba.org/samba/docs/current/man-htm l/smb.conf.5.html
+http:// www.nessus.org/u ?a3cac 4ea
+
+Proof of Concept	 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+
+ 
+9.	Vulnerability Name: COMMON PLATFORM ENUMERATION (CPE)
+           Vulnerability Rating: INFORMATIONAL
+CVSS: 0.0
+Affected Systems:
+abnjstmumlt0008.abgplanet.abg.com,    abnjstmumlt0009.abgplanet.abg.com, abnjstmumlt0013.abgplanet.abg.com, abnjstmumlt0018.abgplanet.abg.com, abnjstmumlt0050.abgplanet.abg.com, abnjstmumlt0055 .abgplanet.abg.com, abnjstrshdt217.abgplanet.abg.com, abnjstrshltOll.abgplanet.abg.com, abnjstrshlt016.abgplanet.abg.com, abnjstrshlt018.abgplanet.abg.com, abnjstrshlt023.abgplanet.abg.com, abnjstrshlt030.abgplanet.abg.com,   abnjstrshlt031.abgplanet.abg.com, abnjstrshl t036.abgpal net.abg.com, abnjstrshlt039.abgplanet.abg.com, abnjstrshlt042.abgplanet.abg.com, abnjstrshlt047.abgplanet.abg.com, abnjstrshlt055.abgplanet.abg.com, abnjstrshlt060.abgplanet.abg.com, abnjstrshlt063.abgplanet.abg.com, abnjstrshlt065.abgplanet.abg.com, abnjstrshlt068.abgplanet.abg.com, abnjstrshlt079.abgplanet.abg.com, abnjstrshlt088.abgplanet.abg.com, abnjstrshlt095.abgplanet.abg.com, abnjstrshl t097.abgplanet.abg.com,abnjstrshlt105.abgplane t.abg.com,
+abnjstrshl t106.abgplanet.abg.com, abnjstrshltll0.abgplanet.abg.com, abnjstrshltlll.abgplanet.abg.com, abnjstrshlt120.abgplanet.abg.com, abnjstrshlt123.abgplanet.abg.com, abnjstrshlt127.abgplanet.abg.com, abnjstrshlt131.abgplanet.abg.com, abnjstrshl t137.abgplanet.abg.coma, bnjstrshlt138.abgplane t.abg.com, abnjstrshl t139.abgplanet.abg.com, abnjstrshlt140.abgplanet.abg.com, abnjstrshlt149.abgplanet.abg.com, abnjstrshlt157.abgplanet.abg.com, abnjstrshlt168.abgplanet.abg.com, abnjstrshlt172.abgplanet.abg.com, abnjstrshltl77.abgplanet.abg.com, abnjstrshlt180.abgplanet.abg.com, abnjstrshl t188.abgplanet.abg.com, abnjstrshlt189.abgplanet.abg.com, abnjstrshlt194.abgplanet.abg.com, abnjstrshlt195.abgplanet.abg.com, abnjstrshlt199.abgplanet.abg.com, abnjstrshlt210.abgplanet.abg.com, abnjstrshlt212.abgplanet.abg.com, abnjstrshlt213.abgplanet.abg.com, abnjstrshlt214.abgplanet.abg.com, abnjstrshlt220.abgplanet.abg.com, abnjstrshlt222.abgplanet.abg.com, abnjstrshlt228.abgplanet.abg.com, abnjstrshlt229.abgplanet.abg.com, abnjstrshlt236.a bgplanet.abg.com, abnjstrshlt239.abgplanet.abg.com, abnjstrshlt256.abgplanet.abg.com, abnjstrshlt259.abgplanet.abg.com, abnjstrshlt265.abgplanet.abg.com, abnjstrshlt269.abgplanet.abg.com, abnjstrshlt280.abgplanet.abg.com, abnjstrshlt282.abgplanet.abg.com, abnjstrshlt289.a bgplanet.abg.com, abnjstrshlt293.abgplanet.abg.com, abnjstrshlt310.abgplanet.abg.com, abnjstrshlt313.abgplanet.abg.com, abnjstrshlt314.abgplanet.abg.com, abnjstrshlt316.abgplanet.abg.com, abnjstrshlt338.abgplanet.abg.com, abnjstrshlt343.abgplanet.abg.com, abnjstrshlt348.abgplanet.abg.com, abnjstrshlt365.abgplanet.abg.com, abnjstrshlt376.abgplanet.abg.com, abnjstrshlt381.abgplanet.abg.com, abnjstrshlt385.abgplanet.abg.com, abnjstrshlt388.abgplanet.abg.com, abnjstrshlt422.abgplanet.abg.com, abnjstrshlt78.abgplanet.abg.com, gilvkwmaldt058.abgplanet.abg.com, gilvkwmallt0134.abgplanet.abg.com, gilvkwmallt0137.abgplanet.abg.com, gilvkwmalltr005.abgplanet.abg.com, abnjstmumlt0005, 10.147.11.100, 10.147.10.131, 10.147.24.89, 10.147.21.22, 10.147.11.16, 10.147.16.72, 10.147.0.162, 10.147.10.41, 10.147.11.55, abnjstrshdt274, 10.147.11.63, 10.147.10.40, 10.147.11.62, 10.147.6.217, abnjstrshlt015, 10.147.6.241, abnjstrshlt228, abnjstrshlt142, abnjstrshlt110, 10.147.6.98, abnjstrshlt087, 10.147.6.124, ABNJSTRSHLT175, 10.147.16.23, 10.147.19.11, ABNJSTRSHLT255, abnjstrshlt602, abnjstrshlt011, abnjstrshlt150, ABNJSTRSHLT002, 10.147.10.31, abnjstrshlt043
+Vulnerability Description	It was possible to enumerate CPE names that matched on the remote system.
+
+
+Impact	By using information obtained from a Nessus scan, this plugin reports CPE (Common Platform Enumeration) matches for various hardware and software products found on a host.
+
+Note that if an official CPE is not available for the product, this plugin computes the best possible CPE based on the information available from the scan.
+
+
+
+Remediation	n/a
+
+References:
+http://cpe.mitre.org/
+https://nvd.nist.gov/products/cpe
+Proof of Concept	 
+ 
+Auditee's Response	
+Estimate Implementation Date	
+Closure Remark	
+	
+
